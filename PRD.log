@@ -1,6 +1,6 @@
 Microsoft HTML Help Compiler 4.74.8702
 
-Compiling d:\software\PrecisionHelper\Help projects\PRD.chm
+Compiling e:\CHM\PRD\PRD.chm
 
 PRD\pathfinderRPG\prd\bestiary\aasimar.html
 PRD\pathfinderRPG\prd\advancedRaceGuide\featuredRaces\aasimars.html
@@ -1440,7 +1440,6 @@ PRD\pathfinderRPG\prd\advancedRaceGuide\featuredRaces\hobgoblins.html
 PRD\pathfinderRPG\prd\bestiary3\hodag.html
 PRD\pathfinderRPG\prd\coreRulebook\spells\holdAnimal.html
 PRD\pathfinderRPG\prd\coreRulebook\spells\holdMonster.html
-
 PRD\pathfinderRPG\prd\coreRulebook\spells\holdPerson.html
 PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\holdPortal.html
 PRD\pathfinderRPG\prd\coreRulebook\spells\holdPortal.html
@@ -3082,6 +3081,7 @@ PRD\pathfinderRPG\prd\advancedPlayersGuide\spells\vanish.html
 PRD\pathfinderRPG\prd\bestiary\vargouille.html
 PRD\pathfinderRPG\prd\bestiary\variantMonsterIndex.html
 PRD\pathfinderRPG\prd\unchained\skillsAndOptions\variantMulticlassing.html
+
 PRD\pathfinderRPG\prd\bestiary5\ved.html
 PRD\pathfinderRPG\prd\bestiary5\veela.html
 PRD\pathfinderRPG\prd\bestiary\vegepygmy.html
@@ -3294,12 +3294,12 @@ PRD\pathfinderRPG\prd\bestiary5\zygomind.html
 Contents.hhc
 Index.hhk
 
-Compile time: 2 minutes, 31 seconds
+Compile time: 2 minutes, 55 seconds
 3,252	Topics
 681,203	Local links
 0	Internet links
 0	Graphics
 
 
-Created d:\software\PrecisionHelper\Help projects\PRD.chm, 22,920,280 bytes
+Created e:\CHM\PRD\PRD.chm, 22,920,280 bytes
 Compression decreased file by 80,698,837 bytes.
