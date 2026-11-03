@@ -20,7 +20,7 @@ Flat=No
 Compatibility=1.1 or later
 
 [WINDOWS]
-prd="Pathfinder Reference Document","Contents.hhc","Index.hhk","PRD\pathfinderRPG\prd\index.htm","PRD\pathfinderRPG\prd\index.htm",,,,,0x00063520,264,0x0000004E,[65,48,865,648],,,,0,0,0,0
+prd="Pathfinder Reference Document","Contents.hhc","Index.hhk","PRD\pathfinderRPG\prd\index.htm","PRD\pathfinderRPG\prd\index.htm",,,,,0x00063520,,0x0000184E,[25,25,800,600],,,,0,0,0,0
 
 [FILES]
 PRD\pathfinderRPG\prd\bestiary\aasimar.html
