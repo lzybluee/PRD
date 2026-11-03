@@ -6197,7 +6197,7 @@
           <param name="Name" value="Intimidate">
           <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\skills\intimidate.html">
         </OBJECT>
-		<LI><OBJECT type="text/sitemap">
+        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Introduction">
           <param name="Local" value="PRD\pathfinderRPG\prd\index.htm">
         </OBJECT>

@@ -67,8 +67,7 @@ sup {
 /* Structure */
 
 .header {
-    float: left;
-	width: 100px;
+    display: none;
 }
 
 .header-content {
@@ -82,11 +81,11 @@ sup {
 }
 
 .body-content {
-	margin-left: 100px;
+	margin-left: 0;
 }
 
 .body {
-	margin: -15px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
 }
 
 .footer {

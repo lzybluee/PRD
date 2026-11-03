@@ -200,7 +200,6 @@ PRD\pathfinderRPG\prd\coreRulebook\magicItems\armor.html
 PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\armor.html
 PRD\pathfinderRPG\prd\ultimateCombat\variants\armorAsDamageReduction.html
 PRD\pathfinderRPG\prd\ultimateEquipment\magicArmsAndArmor\armorSpecialAbilities.html
-HHC3004: Warning: armorSpecialAbilities.html : The HTML tag "; <b" is not a valid HTML tag (it does not begin with an alphanumeric character).
 PRD\pathfinderRPG\prd\advancedClassGuide\gear\armorSpecialAbilities.html
 PRD\pathfinderRPG\prd\ultimateMagic\wordsOfPower\effectWords\armorWords-1.html
 PRD\pathfinderRPG\prd\advancedPlayersGuide\spells\arrowEruption.html
@@ -2388,9 +2387,6 @@ PRD\pathfinderRPG\prd\advancedPlayersGuide\spells\righteousVigor.html
 PRD\pathfinderRPG\prd\ultimateEquipment\ringsRodsStaves\rings.html
 PRD\pathfinderRPG\prd\coreRulebook\magicItems\rings.html
 PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\rings.html
-HHC3004: Warning: rings.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: rings.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: rings.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
 PRD\pathfinderRPG\prd\advancedClassGuide\gear\rings.html
 PRD\pathfinderRPG\prd\advancedPlayersGuide\spells\riverOfWind.html
 PRD\pathfinderRPG\prd\advancedClassGuide\spells\riverWhip.html
@@ -2400,7 +2396,6 @@ PRD\pathfinderRPG\prd\bestiary\roc.html
 PRD\pathfinderRPG\prd\ultimateEquipment\ringsRodsStaves\rods.html
 PRD\pathfinderRPG\prd\coreRulebook\magicItems\rods.html
 PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\rods.html
-HHC3004: Warning: rods.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
 PRD\pathfinderRPG\prd\advancedClassGuide\gear\rods.html
 PRD\pathfinderRPG\prd\unchained\classes\rogue.html
 PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\rogue.html
@@ -2917,7 +2912,6 @@ PRD\pathfinderRPG\prd\occultAdventures\spells\thoughtShield.html
 PRD\pathfinderRPG\prd\bestiary2\thrasfyr.html
 PRD\pathfinderRPG\prd\advancedPlayersGuide\spells\threefoldAspect.html
 PRD\pathfinderRPG\prd\bestiary5\thriae.html
-HHC3004: Warning: thriae.html : The HTML tag "(DC 22)</p" is not a valid HTML tag (it does not begin with an alphanumeric character).
 PRD\pathfinderRPG\prd\bestiary3\thriae.html
 PRD\pathfinderRPG\prd\bestiary2\thunderbird.html
 PRD\pathfinderRPG\prd\ultimateCombat\spells\thunderFire.html
@@ -3081,7 +3075,6 @@ PRD\pathfinderRPG\prd\advancedPlayersGuide\spells\vanish.html
 PRD\pathfinderRPG\prd\bestiary\vargouille.html
 PRD\pathfinderRPG\prd\bestiary\variantMonsterIndex.html
 PRD\pathfinderRPG\prd\unchained\skillsAndOptions\variantMulticlassing.html
-
 PRD\pathfinderRPG\prd\bestiary5\ved.html
 PRD\pathfinderRPG\prd\bestiary5\veela.html
 PRD\pathfinderRPG\prd\bestiary\vegepygmy.html
@@ -3174,8 +3167,6 @@ PRD\pathfinderRPG\prd\technologyGuide\weapons.html
 PRD\pathfinderRPG\prd\coreRulebook\magicItems\weapons.html
 PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\weapons.html
 PRD\pathfinderRPG\prd\ultimateEquipment\magicArmsAndArmor\weaponSpecialAbilities.html
-HHC3004: Warning: weaponSpecialAbilities.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: weaponSpecialAbilities.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
 PRD\pathfinderRPG\prd\advancedClassGuide\gear\weaponSpecialAbilities.html
 PRD\pathfinderRPG\prd\bestiary4\weasel.html
 PRD\pathfinderRPG\prd\ultimateMagic\wordsOfPower\effectWords\weatherWords-1.html
@@ -3227,18 +3218,6 @@ PRD\pathfinderRPG\prd\bestiary5\wolliped.html
 PRD\pathfinderRPG\prd\bestiary\wolverine.html
 PRD\pathfinderRPG\prd\coreRulebook\magicItems\wondrousItems.html
 PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\wondrousItems.html
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
-HHC3004: Warning: wondrousItems.html : The HTML tag "; <strong" is not a valid HTML tag (it does not begin with an alphanumeric character).
 PRD\pathfinderRPG\prd\advancedClassGuide\gear\wondrousItems.html
 PRD\pathfinderRPG\prd\ultimateMagic\spells\woodenPhalanx.html
 PRD\pathfinderRPG\prd\coreRulebook\spells\woodShape.html
@@ -3294,12 +3273,12 @@ PRD\pathfinderRPG\prd\bestiary5\zygomind.html
 Contents.hhc
 Index.hhk
 
-Compile time: 3 minutes, 38 seconds
+Compile time: 2 minutes, 57 seconds
 3,252	Topics
 681,203	Local links
 0	Internet links
 0	Graphics
 
 
-Created e:\CHM\PRD\PRD.chm, 22,919,988 bytes
-Compression decreased file by 80,699,033 bytes.
+Created e:\CHM\PRD\PRD.chm, 22,919,824 bytes
+Compression decreased file by 80,699,171 bytes.
