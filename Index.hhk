@@ -246,7 +246,7 @@
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\ageResistance.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Age, Height & Weight">
+          <param name="Name" value="Age, Height &amp; Weight">
           <param name="Local" value="PRD\pathfinderRPG\prd\advancedRaceGuide\ageHeightWeight.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
