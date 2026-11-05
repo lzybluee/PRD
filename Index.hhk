@@ -27,19 +27,19 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ablative Barrier">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\ablativeBarrier.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Ablative Barrier">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\ablativeBarrier.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Aboleth">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\aboleth.html">
+          <param name="Name" value="Ablative Barrier">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\ablativeBarrier.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Aboleth">
           <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\aboleth.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Aboleth">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\aboleth.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Absorb Toxicity">
@@ -283,19 +283,19 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Alchemist">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\alchemist.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Alchemist">
           <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\alchemist.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Alchemist">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\alchemist.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\alchemist.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Alchemist">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\alchemist.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Alchemist">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\alchemist.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Alchemist Tools">
@@ -403,11 +403,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Angel">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\angel.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\angel.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Angel">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\angel.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\angel.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Angels">
@@ -415,11 +415,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Animal Aspect">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\animalAspect.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\animalAspect.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Animal Aspect">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\animalAspect.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\animalAspect.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Animal Companions">
@@ -463,11 +463,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Animate Dead">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\animateDead.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\animateDead.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Animate Dead">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\animateDead.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\animateDead.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Animate Dream">
@@ -543,11 +543,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Anticipate Peril">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\anticipatePeril.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\anticipatePeril.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Anticipate Peril">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\anticipatePeril.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\anticipatePeril.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Anticipate Thoughts">
@@ -611,11 +611,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Appendix">
-          <param name="Local" value="PRD\pathfinderRPG\prd\npcCodex\appendix.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateEquipment\appendix.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Appendix">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateEquipment\appendix.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\npcCodex\appendix.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Apport Animal">
@@ -639,11 +639,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Arboreal Hammer">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\arborealHammer.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\arborealHammer.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Arboreal Hammer">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\arborealHammer.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\arborealHammer.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Arcana Theft">
@@ -659,11 +659,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Arcane Cannon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\arcaneCannon.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\arcaneCannon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Arcane Cannon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\arcaneCannon.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\arcaneCannon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Arcane Concordance">
@@ -715,15 +715,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Archon">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\archon.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Archon">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\archon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Archon">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\archon.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Archon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\archon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Archon's Aura">
@@ -743,19 +743,19 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Armor">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\armor.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Armor">
           <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\armor.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Armor">
-          <param name="Local" value="PRD\pathfinderRPG\prd\technologyGuide\armor.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\armor.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Armor">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateEquipment\armsAndArmor\armor.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Armor">
+          <param name="Local" value="PRD\pathfinderRPG\prd\technologyGuide\armor.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Armor as Damage Reduction">
@@ -791,15 +791,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Artifacts">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateEquipment\artifactsAndOthers\artifacts.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Artifacts">
           <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicItems\artifacts.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Artifacts">
           <param name="Local" value="PRD\pathfinderRPG\prd\technologyGuide\artifacts.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Artifacts">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateEquipment\artifactsAndOthers\artifacts.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Artifacts and Other Items">
@@ -943,11 +943,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Azata">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\azata.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\azata.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Azata">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\azata.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\azata.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Azatas">
@@ -1035,7 +1035,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Barbarian">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\barbarian.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\barbarian.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Barbarian">
@@ -1043,7 +1043,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Barbarian">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\barbarian.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\barbarian.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Barbarian">
@@ -1059,7 +1059,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bard">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\bard.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\bard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bard">
@@ -1067,15 +1067,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bard">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\bard.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Bard">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\bard.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\bard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bard">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\bard.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Bard">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\bard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bard's Escape">
@@ -1131,11 +1131,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bat">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\bat.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\bat.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bat">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\bat.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\bat.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Battle Herald">
@@ -1147,11 +1147,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Battlemind Link">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\battlemindLink.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\battlemindLink.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Battlemind Link">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\battlemindLink.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\battlemindLink.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Baykok">
@@ -1191,11 +1191,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Beetle">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\beetle.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\beetle.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Beetle">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\beetle.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\beetle.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Beguiling Gift">
@@ -1415,11 +1415,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Blistering Invective">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\blisteringInvective.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\blisteringInvective.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Blistering Invective">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\blisteringInvective.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\blisteringInvective.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bloatbomb">
@@ -1435,11 +1435,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Blood Crow Strike">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\bloodCrowStrike.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\bloodCrowStrike.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Blood Crow Strike">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\bloodCrowStrike.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\bloodCrowStrike.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Blood Hag">
@@ -1527,11 +1527,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Boiling Blood">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\boilingBlood.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\boilingBlood.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Boiling Blood">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\boilingBlood.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\boilingBlood.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bomber's Eye">
@@ -1695,11 +1695,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Burrow">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\burrow.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\burrow.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Burrow">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\burrow.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\burrow.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Burst Bonds">
@@ -1799,11 +1799,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cape of Wasps">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\capeOfWasps.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\capeOfWasps.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cape of Wasps">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\capeOfWasps.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\capeOfWasps.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Capramace">
@@ -1875,11 +1875,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cavalier">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\cavalier.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\cavalier.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cavalier">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\cavalier.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\cavalier.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cavalier">
@@ -1903,11 +1903,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Centipede">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\centipede.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\centipede.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Centipede">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\centipede.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\centipede.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cephalophore">
@@ -2063,11 +2063,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Chord of Shards">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\chordOfShards.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\chordOfShards.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Chord of Shards">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\chordOfShards.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\chordOfShards.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Chupacabra">
@@ -2131,7 +2131,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cleric">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\cleric.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\cleric.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cleric">
@@ -2139,15 +2139,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cleric">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\cleric.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Cleric">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\cleric.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\cleric.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cleric">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\cleric.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Cleric">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\cleric.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Clerics">
@@ -2211,11 +2211,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cockatrice">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\cockatrice.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\cockatrice.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cockatrice">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\cockatrice.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\cockatrice.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cockroach">
@@ -2311,11 +2311,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Companion Mind Link">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\companionMindLink.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\companionMindLink.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Companion Mind Link">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\companionMindLink.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\companionMindLink.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Companions">
@@ -2363,11 +2363,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Conjure Black Pudding">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\conjureBlackPudding.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\conjureBlackPudding.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Conjure Black Pudding">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\conjureBlackPudding.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\conjureBlackPudding.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Consecrate">
@@ -2395,11 +2395,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Contagion">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\contagion.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\contagion.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Contagion">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\contagion.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\contagion.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Contagious Flame">
@@ -2511,11 +2511,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Crab">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\crab.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\crab.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Crab">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\crab.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\crab.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Craft">
@@ -2575,11 +2575,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Creature Types">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\creatureTypes.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\creatureTypes.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Creature Types">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\creatureTypes.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\creatureTypes.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Creeping Doom">
@@ -2699,11 +2699,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cursed Items">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\cursedItems.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\cursedItems.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cursed Items">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\cursedItems.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\cursedItems.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cursed Items">
@@ -2723,11 +2723,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cyclops">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\cyclops.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\cyclops.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cyclops">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\cyclops.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\cyclops.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Cyclops, Great">
@@ -2819,19 +2819,19 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Darkvision">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\darkvision.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Darkvision">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\darkvision.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Daybreak Arrow">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\daybreakArrow.html">
+          <param name="Name" value="Darkvision">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\darkvision.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Daybreak Arrow">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\daybreakArrow.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Daybreak Arrow">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\daybreakArrow.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Daylight">
@@ -3015,6 +3015,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Demon">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\demon.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Demon">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\demon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -3022,20 +3026,16 @@
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\demon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Demon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\demon.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Demon Lord">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\demonLord.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Demons">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary5\demons.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\demons.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Demons">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\demons.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary5\demons.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Denizen of Leng">
@@ -3163,15 +3163,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Devil">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\devil.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Devil">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\devil.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Devil">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\devil.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Devil">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\devil.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Devilbound Creature">
@@ -3183,15 +3183,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Devils">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\devils.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Devils">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\devil.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Devils">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary5\devils.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Devils">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\devils.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Devolution">
@@ -3259,6 +3259,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Dinosaur">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\dinosaur.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Dinosaur">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\dinosaur.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -3268,10 +3272,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Dinosaur">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\dinosaur.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Dinosaur">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\dinosaur.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Dinosaurs">
@@ -3331,11 +3331,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Disfiguring Touch">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\disfiguringTouch.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\disfiguringTouch.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Disfiguring Touch">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\disfiguringTouch.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\disfiguringTouch.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Disguise">
@@ -3451,11 +3451,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Divine Pursuit">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\divinePursuit.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\divinePursuit.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Divine Pursuit">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\divinePursuit.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\divinePursuit.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Divine Transfer">
@@ -3531,6 +3531,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Dragon">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\dragon.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Dragon">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\dragon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -3540,10 +3544,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Dragon">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\dragon.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Dragon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\dragon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Dragon Disciple">
@@ -3663,7 +3663,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Druid">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\druid.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\druid.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Druid">
@@ -3671,15 +3671,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Druid">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\druid.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Druid">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\druid.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\druid.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Druid">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\druid.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Druid">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\druid.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Druids">
@@ -3775,11 +3775,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ear-Piercing Scream">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\earPiercingScream.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\earPiercingScream.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ear-Piercing Scream">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\earPiercingScream.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\earPiercingScream.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Early Life">
@@ -3871,11 +3871,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Elemental">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\elemental.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\elemental.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Elemental">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\elemental.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\elemental.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Elemental Aura">
@@ -3955,11 +3955,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Endure Elements">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\endureElements.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\endureElements.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Endure Elements">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\endureElements.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\endureElements.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Enemy Hammer">
@@ -4051,11 +4051,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Equipment">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\advancedGear.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\equipment.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Equipment">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\equipment.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\advancedGear.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Erase">
@@ -4115,11 +4115,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ettin">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\ettin.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\ettin.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ettin">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\ettin.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\ettin.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Euphoric Cloud">
@@ -4227,15 +4227,19 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="False Life">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\falseLife.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\falseLife.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="False Life">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\falseLife.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\falseLife.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="False Vision">
           <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\spells\falseVision.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Familiar">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\familiar.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Familiar">
@@ -4244,10 +4248,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Familiar">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary5\familiars.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Familiar">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\familiar.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Familiar Double">
@@ -4311,7 +4311,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Feats">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\feats.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\feats.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Feats">
@@ -4319,7 +4319,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Feats">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\feats.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\feats.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Feats">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\ultimateMagicFeats.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Feats">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\ultimateCombatFeats.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Feats">
@@ -4328,14 +4336,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Feats">
           <param name="Local" value="PRD\pathfinderRPG\prd\technologyGuide\feats.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Feats">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\ultimateCombatFeats.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Feats">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\ultimateMagicFeats.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Featured Races">
@@ -4391,7 +4391,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Fighter">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\fighter.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\fighter.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Fighter">
@@ -4399,7 +4399,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Fighter">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\fighter.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\fighter.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Fighter">
@@ -4627,14 +4627,6 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Fly">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\spells\fly.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Fly">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\fly.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Fly">
           <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\skills\fly.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -4643,7 +4635,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Fly">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\spells\fly.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Fly">
           <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\fly.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Fly">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\fly.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Flying Polyp">
@@ -4703,11 +4703,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Force Punch">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\forcePunch.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\forcePunch.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Force Punch">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\forcePunch.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\forcePunch.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Force Words">
@@ -5015,6 +5015,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Giant">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\giant.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Giant">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\giant.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -5024,10 +5028,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Giant">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\giant.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Giant">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\giant.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Giant Form">
@@ -5043,11 +5043,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Giants">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary5\giants.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\giants.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Giants">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\giants.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary5\giants.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Gibbering Mouther">
@@ -5155,6 +5155,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Golem">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\golem.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Golem">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\golem.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -5164,10 +5168,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Golem">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\golem.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Golem">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\golem.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Golem, Flesh">
@@ -5299,11 +5299,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Griffon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\griffon.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\griffon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Griffon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\griffon.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\griffon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Grig">
@@ -5403,11 +5403,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Gunslinger">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\gunslinger.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classes\gunslinger.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Gunslinger">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classes\gunslinger.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\gunslinger.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Gust of Wind">
@@ -5543,11 +5543,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Healing Thief">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\healingThief.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\healingThief.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Healing Thief">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\healingThief.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\healingThief.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Healing Words">
@@ -5579,11 +5579,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hell Hound">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\hellHound.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\hellHound.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hell Hound">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\hellHound.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\hellHound.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hellcat">
@@ -5599,6 +5599,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Herd Animal">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\herdAnimal.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Herd Animal">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\herdAnimal.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -5608,10 +5612,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Herd Animal">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\herdAnimal.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Herd Animal">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\herdAnimal.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Heretics">
@@ -5651,11 +5651,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hex Ward">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\hexWard.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\hexWard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hex Ward">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\hexWard.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\hexWard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hidden Speech">
@@ -5891,11 +5891,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hydra">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\hydra.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\hydra.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hydra">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\hydra.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\hydra.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Hydraulic Push">
@@ -6107,19 +6107,19 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Inquisitor">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\inquisitor.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Inquisitor">
           <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\inquisitor.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Inquisitor">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\inquisitor.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\inquisitor.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Inquisitor">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\inquisitor.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Inquisitor">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\inquisitor.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Insanity">
@@ -6183,11 +6183,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Introduction">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\introduction.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\index.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Introduction">
-          <param name="Local" value="PRD\pathfinderRPG\prd\index.htm">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\introduction.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Investigator">
@@ -6467,11 +6467,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Know the Enemy">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\knowTheEnemy.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\knowTheEnemy.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Know the Enemy">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\knowTheEnemy.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\knowTheEnemy.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Knowledge">
@@ -6511,6 +6511,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Kyton">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\kyton.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Kyton">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\kyton.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -6518,20 +6522,16 @@
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\kyton.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Kyton">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\kyton.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lamhigyn">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary5\lamhigyn.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lamia">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\lamia.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\lamia.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lamia">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\lamia.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\lamia.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lamia Matriarch">
@@ -6631,11 +6631,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lich">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\lich.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\lich.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lich">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\lich.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\lich.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Life Bubble">
@@ -6663,11 +6663,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lightning Arc">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\lightningArc.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\lightningArc.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lightning Arc">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\lightningArc.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\lightningArc.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lightning Bolt">
@@ -6711,11 +6711,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Linnorm">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\linnorm.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\linnorm.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Linnorm">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\linnorm.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\linnorm.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lion">
@@ -6787,11 +6787,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lizard">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\lizard.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\lizard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lizard">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\lizard.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\lizard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lizardfolk">
@@ -6899,15 +6899,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lycanthrope">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\lycanthrope.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Lycanthrope">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\lycanthrope.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Lycanthrope">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\lycanthrope.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Lycanthrope">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\lycanthrope.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Mad Hallucination">
@@ -7027,11 +7027,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Magic Items">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\advancedMagicItems.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Magic Items">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\advancedMagicItems.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Magic Items">
@@ -7099,15 +7099,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Magus">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\magus.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Magus">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcasters\magus.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Magus">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\magus.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Magus">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\magus.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Major Artifacts">
@@ -7159,11 +7159,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Manticore">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\manticore.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\manticore.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Manticore">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\manticore.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\manticore.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Mantis">
@@ -7251,11 +7251,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Medusa">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\medusa.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\medusa.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Medusa">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\medusa.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\medusa.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Megafauna">
@@ -7435,11 +7435,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Minotaur">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\minotaur.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\minotaur.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Minotaur">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\minotaur.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\minotaur.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Miracle">
@@ -7539,7 +7539,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monk">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\monk.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\monk.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monk">
@@ -7547,15 +7547,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monk">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\monk.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Monk">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\monk.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\monk.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monk">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\monk.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Monk">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\monk.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monk">
@@ -7591,6 +7591,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monster Index">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterIndex.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Monster Index">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\additionalMonsterIndex.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -7604,10 +7608,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monster Index">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary5\index.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Monster Index">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterIndex.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monster Roles">
@@ -7631,11 +7631,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monstrous Physique">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\monstrousPhysique.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\monstrousPhysique.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Monstrous Physique">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\monstrousPhysique.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\monstrousPhysique.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Moon Dog">
@@ -7703,11 +7703,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Mummy">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\mummy.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\mummy.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Mummy">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\mummy.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\mummy.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Mummy Lord">
@@ -7719,11 +7719,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Murderous Command">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\murderousCommand.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\murderousCommand.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Murderous Command">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\murderousCommand.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\murderousCommand.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Muse">
@@ -7791,11 +7791,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Naga">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\naga.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\naga.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Naga">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\naga.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\naga.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Nagaji">
@@ -7807,11 +7807,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Named Bullet">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\namedBullet.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\namedBullet.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Named Bullet">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\namedBullet.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\namedBullet.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Nap Stack">
@@ -7907,15 +7907,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Nightmare">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\nightmare.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Nightmare">
           <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\spells\nightmare.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Nightmare">
           <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\nightmare.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Nightmare">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\nightmare.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Nightmare Creature">
@@ -8063,11 +8063,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ogre">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\ogre.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\ogre.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ogre">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\ogre.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\ogre.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ogrekin">
@@ -8087,11 +8087,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Oni">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\oni.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\oni.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Oni">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\oni.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\oni.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Open/Close">
@@ -8111,11 +8111,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Oracle">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\oracle.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\oracle.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Oracle">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\oracle.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\oracle.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Oracle">
@@ -8135,11 +8135,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Orb of the Void">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\orbOfTheVoid.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\orbOfTheVoid.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Orb of the Void">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\orbOfTheVoid.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\orbOfTheVoid.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Orc">
@@ -8207,11 +8207,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Owlbear">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\owlbear.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\owlbear.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Owlbear">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\owlbear.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\owlbear.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Pain Strike">
@@ -8223,7 +8223,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Paladin">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\paladin.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\paladin.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Paladin">
@@ -8231,15 +8231,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Paladin">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\paladin.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Paladin">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\paladin.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\paladin.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Paladin">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\paladin.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Paladin">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\paladin.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Paladin's Sacrifice">
@@ -8431,11 +8431,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Phantom Steed">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\phantomSteed.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\phantomSteed.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Phantom Steed">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\phantomSteed.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\phantomSteed.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Phantom Trap">
@@ -8463,11 +8463,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Phoenix">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\phoenix.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\phoenix.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Phoenix">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\phoenix.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\phoenix.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Phycomid">
@@ -8707,11 +8707,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Prestige Classes">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\advancedPrestigeClasses.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\prestigeClasses.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Prestige Classes">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\prestigeClasses.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\advancedPrestigeClasses.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Prestige Classes">
@@ -8971,11 +8971,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Races">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\advancedRaces.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\races.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Races">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\races.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\advancedRaces.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Racial Qualities">
@@ -9011,7 +9011,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rakshasa">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\rakshasa.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\rakshasa.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rakshasa">
@@ -9019,7 +9019,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rakshasa">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\rakshasa.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\rakshasa.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rally Point">
@@ -9035,7 +9035,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ranger">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\ranger.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\ranger.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ranger">
@@ -9043,15 +9043,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ranger">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\ranger.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Ranger">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\ranger.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\ranger.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ranger">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\ranger.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Ranger">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\ranger.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rangers">
@@ -9303,11 +9303,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Resonating Word">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\resonatingWord.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\resonatingWord.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Resonating Word">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\resonatingWord.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\resonatingWord.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Resounding Blow">
@@ -9399,11 +9399,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ricochet Shot">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\ricochetShot.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\ricochetShot.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ricochet Shot">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\ricochetShot.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\ricochetShot.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Ride">
@@ -9435,7 +9435,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rings">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\gear\rings.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\rings.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rings">
@@ -9443,7 +9443,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rings">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\rings.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\gear\rings.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rings">
@@ -9475,7 +9475,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rods">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\gear\rods.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\rods.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rods">
@@ -9483,7 +9483,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rods">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\rods.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\gear\rods.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rods">
@@ -9491,7 +9491,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rogue">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\rogue.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\rogue.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rogue">
@@ -9499,7 +9499,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rogue">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\rogue.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\rogue.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Rogue">
@@ -9651,11 +9651,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sands of Time">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\sandsOfTime.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\sandsOfTime.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sands of Time">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\sandsOfTime.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\sandsOfTime.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sangoi">
@@ -9751,6 +9751,10 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Scorpion">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\scorpion.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Scorpion">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\scorpion.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -9762,16 +9766,12 @@
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\scorpion.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Scorpion">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\scorpion.html">
+          <param name="Name" value="Scouring Winds">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\scouringWinds.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Scouring Winds">
           <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\scouringWinds.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Scouring Winds">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\scouringWinds.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Screech">
@@ -9823,11 +9823,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sea Serpent">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\seaSerpent.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\seaSerpent.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sea Serpent">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\seaSerpent.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\seaSerpent.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sea Urchins">
@@ -10011,11 +10011,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Shadow Weapon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\shadowWeapon.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\shadowWeapon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Shadow Weapon">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\shadowWeapon.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\shadowWeapon.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Shadowbard">
@@ -10091,11 +10091,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Shark">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\shark.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\shark.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Shark">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\shark.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\shark.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Shasalqu">
@@ -10319,11 +10319,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Skeleton">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\skeleton.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\skeleton.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Skeleton">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\skeleton.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\skeleton.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Skill Descriptions">
@@ -10443,11 +10443,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Snake">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\snake.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\snake.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Snake">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\snake.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\snake.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Snake Staff">
@@ -10523,7 +10523,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sorcerer">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\sorcerer.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\sorcerer.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sorcerer">
@@ -10531,7 +10531,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sorcerer">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\sorcerer.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\sorcerer.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sorcerer">
@@ -10647,7 +10647,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Index">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\spells\index.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\spellIndex.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Index">
@@ -10655,15 +10655,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Index">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\spellIndex.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\spells\index.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Index">
-          <param name="Local" value="PRD\pathfinderRPG\prd\indices\spells.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Spell Index">
-          <param name="Local" value="PRD\pathfinderRPG\prd\occultAdventures\spells\index.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\ultimateMagicSpellIndex.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Index">
@@ -10671,7 +10667,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Index">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\ultimateMagicSpellIndex.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\occultAdventures\spells\index.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Spell Index">
+          <param name="Local" value="PRD\pathfinderRPG\prd\indices\spells.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell List Index">
@@ -10679,7 +10679,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Lists">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\spells\spellLists.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\spellLists.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Lists">
@@ -10691,11 +10691,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Lists">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\spellLists.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\spells\spellLists.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Lists">
-          <param name="Local" value="PRD\pathfinderRPG\prd\occultAdventures\spellLists.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\ultimateMagicSpellLists.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Lists">
@@ -10703,7 +10703,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Lists">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\ultimateMagicSpellLists.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\occultAdventures\spellLists.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell Resistance">
@@ -10747,7 +10747,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sphinx">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\sphinx.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\sphinx.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sphinx">
@@ -10755,7 +10755,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sphinx">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\sphinx.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\sphinx.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Spider">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\spider.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spider">
@@ -10768,10 +10772,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spider">
           <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\spider.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Spider">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\spider.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spider Climb">
@@ -10887,7 +10887,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Staves">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\gear\staves.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\staves.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Staves">
@@ -10895,7 +10895,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Staves">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\staves.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\gear\staves.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Staves">
@@ -11043,11 +11043,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Strangling Hair">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\stranglingHair.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\stranglingHair.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Strangling Hair">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\stranglingHair.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\stranglingHair.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Street">
@@ -11147,11 +11147,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Summoner">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\summoner.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\summoner.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Summoner">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\summoner.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\summoner.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Summoner">
@@ -11171,11 +11171,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sun Metal">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\sunMetal.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\sunMetal.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sun Metal">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\sunMetal.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\sunMetal.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Sunbeam">
@@ -11199,11 +11199,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Surmount Affliction">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\surmountAffliction.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\surmountAffliction.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Surmount Affliction">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\surmountAffliction.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\surmountAffliction.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Survival">
@@ -11743,11 +11743,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Touch Injection">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\touchInjection.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\touchInjection.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Touch Injection">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\touchInjection.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\touchInjection.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Touch of Fatigue">
@@ -11823,11 +11823,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Treant">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\treant.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\treant.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Treant">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\treant.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\treant.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Treasure Stitching">
@@ -11871,11 +11871,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Troll">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\troll.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Troll">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\troll.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\troll.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Troll">
@@ -11883,7 +11879,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Troll">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\troll.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\troll.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Troll">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\troll.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Trollhound">
@@ -12075,11 +12075,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Universal Monster Rules">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\universalMonsterRules.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\universalMonsterRules.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Universal Monster Rules">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\universalMonsterRules.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\universalMonsterRules.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Unliving Rage">
@@ -12099,11 +12099,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Unshakable Chill">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\unshakableChill.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\unshakableChill.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Unshakable Chill">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spells\unshakableChill.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\unshakableChill.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Unshakable Zeal">
@@ -12155,11 +12155,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Vampire">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\vampire.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Vampire">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\vampire.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\vampire.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Vampire">
@@ -12167,7 +12163,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Vampire">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\vampire.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\vampire.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Vampire">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary4\vampire.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Vampires">
@@ -12379,11 +12379,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Walk through Space">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\walkThroughSpace.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\walkThroughSpace.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Walk through Space">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\spells\walkThroughSpace.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\walkThroughSpace.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wall of Blindness/Deafness">
@@ -12579,19 +12579,19 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Weapons">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\weapons.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Weapons">
           <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\weapons.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Weapons">
-          <param name="Local" value="PRD\pathfinderRPG\prd\technologyGuide\weapons.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\magicItems\weapons.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Weapons">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateEquipment\armsAndArmor\weapons.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Weapons">
+          <param name="Local" value="PRD\pathfinderRPG\prd\technologyGuide\weapons.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Weasel">
@@ -12715,11 +12715,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Witch">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\witch.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\witch.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Witch">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedPlayersGuide\baseClasses\witch.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\witch.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Witch">
@@ -12747,7 +12747,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wizard">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\wizard.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\wizard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wizard">
@@ -12755,15 +12755,15 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wizard">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\classes\wizard.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Wizard">
-          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\wizard.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\classOptions\wizard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wizard">
           <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions\wizard.html">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Wizard">
+          <param name="Local" value="PRD\pathfinderRPG\prd\ultimateCombat\classArchetypes\wizard.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wizard's Shackle">
@@ -12791,7 +12791,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wondrous Items">
-          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\gear\wondrousItems.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\wondrousItems.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wondrous Items">
@@ -12799,7 +12799,7 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wondrous Items">
-          <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\magicItems\wondrousItems.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\gear\wondrousItems.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wondrous Items">
@@ -12835,11 +12835,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Worg">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\worg.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\worg.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Worg">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\worg.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\worg.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="World Wave">
@@ -12895,11 +12895,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wyvern">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\wyvern.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\wyvern.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Wyvern">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicMonsters\wyvern.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\wyvern.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Xacarba">
@@ -12975,11 +12975,11 @@
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Zombie">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\zombie.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\zombie.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Zombie">
-          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\zombie.html">
+          <param name="Local" value="PRD\pathfinderRPG\prd\bestiary2\zombie.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Zombie Lord">
