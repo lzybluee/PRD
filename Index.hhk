@@ -7050,10 +7050,6 @@
           <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\magicMissile.html">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Magic Missle">
-          <param name="Local" value="PRD\pathfinderRPG\prd\mythicAdventures\mythicSpells\magicMissle.html">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Magic Mouth">
           <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\spells\magicMouth.html">
         </OBJECT>
