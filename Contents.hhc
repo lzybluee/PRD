@@ -11407,76 +11407,6 @@
               <param name="ImageNumber" value="11">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Variant Monster Index">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\variantMonsterIndex.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monster Cohorts">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterCohorts.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Animal Companions">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\animalCompanions.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monsters as PCs">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monstersAsPCs.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monster Roles">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterRoles.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Encounter Tables">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\encounterTables.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monster Creation">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterCreation.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monster Advancement">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterAdvancement.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Universal Monster Rules">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\universalMonsterRules.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Creature Types">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\creatureTypes.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monster Feats">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterFeats.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monsters by CR">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monstersByCR.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monsters by Terrain">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monstersByTerrain.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Monsters by Type">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monstersByType.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
               <param name="Name" value="Aasimar">
               <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\aasimar.html">
               <param name="ImageNumber" value="11">
@@ -12421,6 +12351,81 @@
               <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\zombie.html">
               <param name="ImageNumber" value="11">
             </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Appendix">
+            </OBJECT>
+            <UL>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monster Creation">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterCreation.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monster Advancement">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterAdvancement.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Universal Monster Rules">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\universalMonsterRules.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Creature Types">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\creatureTypes.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monsters as PCs">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monstersAsPCs.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monster Feats">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterFeats.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monster Cohorts">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterCohorts.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Animal Companions">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\animalCompanions.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monsters by Type">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monstersByType.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monsters by CR">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monstersByCR.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monsters by Terrain">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monstersByTerrain.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Variant Monster Index">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\variantMonsterIndex.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Monster Roles">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\monsterRoles.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Encounter Tables">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary\encounterTables.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            </UL>
         </UL>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bestiary 2">
@@ -13372,16 +13377,6 @@
               <param name="ImageNumber" value="11">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Universal Monster Rules">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\universalMonsterRules.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Creature Types">
-              <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\creatureTypes.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
               <param name="Name" value="Adaro">
               <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\adaro.html">
               <param name="ImageNumber" value="11">
@@ -14276,6 +14271,21 @@
               <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\zuvembie.html">
               <param name="ImageNumber" value="11">
             </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Appendix">
+            </OBJECT>
+            <UL>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Universal Monster Rules">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\universalMonsterRules.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Creature Types">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\bestiary3\creatureTypes.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            </UL>
         </UL>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bestiary 4">
