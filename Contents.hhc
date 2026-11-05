@@ -3187,7 +3187,7 @@
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Glossary">
+              <param name="Name" value="Special Abilities and Conditions">
               <param name="Local" value="PRD\pathfinderRPG\prd\coreRulebook\glossary.html">
               <param name="ImageNumber" value="11">
             </OBJECT>
@@ -5097,15 +5097,20 @@
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Age">
-              <param name="Local" value="PRD\pathfinderRPG\prd\advancedRaceGuide\ageHeightWeight.html">
-              <param name="ImageNumber" value="11">
+              <param name="Name" value="Appendix">
             </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Spell Lists">
-              <param name="Local" value="PRD\pathfinderRPG\prd\advancedRaceGuide\spellLists.html">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Age, Height and Weight">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\advancedRaceGuide\ageHeightWeight.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Spell Lists">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\advancedRaceGuide\spellLists.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            </UL>
         </UL>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Advanced Class Guide">
@@ -5639,6 +5644,11 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Holy Ice Weapon">
                   <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\spells\holyIceWeapon.html">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Investigative Mind">
+                  <param name="Local" value="PRD\pathfinderRPG\prd\advancedClassGuide\spells\investigativeMind.html">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
