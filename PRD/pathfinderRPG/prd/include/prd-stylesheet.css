@@ -549,21 +549,21 @@ div.table {
 }
 
 #monster-index-wrapper a.cr-easy {
-	background-color: rgba(0,255,0,0.3);
+	background-color: #b2feae; background-color: rgba(0,255,0,0.3);
 }
 
 #monster-index-wrapper a.cr-average {
-	background-color: rgba(102,204,255,0.5);
+	background-color: #b2e4fc; background-color: rgba(102,204,255,0.5);
 }
 
 #monster-index-wrapper a.cr-challenging {
-	background-color: rgba(255,0,0,0.2);
+	background-color: #ffcac6; background-color: rgba(255,0,0,0.2);
 }
 
 #monster-index-wrapper a.cr-hard {
-	background-color: rgba(102,0,204,0.2);
+	background-color: #e0caef; background-color: rgba(102,0,204,0.2);
 }
 
 #monster-index-wrapper a.cr-epic {
-	background-color: rgba(0,0,0,0.2);
+	background-color: #cccac6; background-color: rgba(0,0,0,0.2);
 }
