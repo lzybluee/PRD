@@ -2175,6 +2175,10 @@ PRD\pathfinderRPG\prd\include\menu.png
 PRD\pathfinderRPG\prd\include\PRD-Logo.png
 PRD\pathfinderRPG\prd\include\PRD-Logo_Mobile.png
 PRD\pathfinderRPG\prd\include\prd-stylesheet.css
+PRD\pathfinderRPG\prd\include\js\jquery-1.10.2.min.js
+PRD\pathfinderRPG\prd\include\js\jquery.cookie.js
+PRD\pathfinderRPG\prd\include\js\jquery.dataTables.min.js
+PRD\pathfinderRPG\prd\include\js\prd-scripts.js
 PRD\pathfinderRPG\prd\index.htm
 PRD\pathfinderRPG\prd\indices\bestiary.html
 PRD\pathfinderRPG\prd\indices\feats.html
@@ -3273,12 +3277,12 @@ PRD\pathfinderRPG\prd\updates.html
 Contents.hhc
 Index.hhk
 
-Compile time: 3 minutes, 12 seconds
+Compile time: 2 minutes, 48 seconds
 3,252	Topics
-681,500	Local links
-0	Internet links
+129,021	Local links
+42	Internet links
 0	Graphics
 
 
-Created e:\CHM\PRD\PRD.chm, 22,155,828 bytes
-Compression decreased file by 81,743,744 bytes.
+Created e:\CHM\PRD\PRD.chm, 16,687,412 bytes
+Compression decreased file by 27,662,264 bytes.
