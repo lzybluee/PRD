@@ -6,6 +6,8 @@
 	<meta name = "viewport" content = "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 	<title>Planar Adventures</title>
 	<link rel = "stylesheet" type = "text/css" href = "../include/prd-stylesheet.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../cdn.paizo.com/chrome/style/jquery.dataTables.min.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../cdn.paizo.com/chrome/style/jquery-ui.min.css"  />
 </head>
 
 <body>
@@ -338,7 +340,7 @@
         
 				<h1 id="planar" class="monster-header">Planar</h1>
 				<p>Beyond the mundane world of humans, elves, gnomes, and dwarves lie vast realms known as the planes of existence. Almost limitless in size and potential, the various planes embody the fundamental aspects of reality: alignments, elements, energies, and so on. Each plane is a universe unto itself; it follows its own natural laws and has its own unique inhabitants&mdash;the outsiders that occasionally visit or are summoned to the mortal world, be they gods, angels, demons, devils, or even stranger creatures. Literally anything is possible on the planes, making them a perfect location for exotic, terrifying, wondrous, and deadly adventures.</p>
-				<h1 id="what-is-a-plane">What is a Plane?</h1>
+				<h1 id="what-is-a-plane?">What is a Plane?</h1>
 				<p>The planes of existence are different realities with interwoven connections. Except for rare linking points, each plane is effectively its own universe, with its own natural laws. The planes break down into a number of general types: the Material Plane, the transitive planes, the Inner Planes, the Outer Planes, and the demiplanes.</p>
 				<p id="material-plane"><b>Material Plane</b>: The Material Plane is the most Earthlike of all the planes, and operates under the same set of natural laws that our own world does. This is the default plane for most adventures.</p>
 				<p id="transitive-planes"><b>Transitive Planes</b>: These three planes have one important common characteristic: each is used to get from one place to another. The Astral Plane (although technically an Outer Plane) is a conduit to all other planes, while the Ethereal Plane and the Shadow Plane both serve as means of transportation within the Material Plane, which they're connected to. These planes have the strongest regular interaction with the Material Plane and can be accessed using various spells. They have native inhabitants as well. </p>
@@ -404,8 +406,8 @@
 				<h2 id="alignment-traits">Alignment Traits</h2>
 				<p>Some planes have a predisposition to a certain alignment. Most of the inhabitants of these planes also have the plane's particular alignment, even powerful creatures such as deities. The alignment trait of a plane affects social interactions there. Characters who follow other alignments than most of the inhabitants do may have a tougher time dealing with the plane's natives and situations.</p>
 				<p>Alignment traits have multiple components. First are the moral (good or evil) and ethical (lawful or chaotic) components; a plane can have a moral component, an ethical component, or one of each. Second, the specific alignment trait indicates whether each moral or ethical component is mildly or strongly evident. Many planes have no alignment traits; these traits are noted in a plane's description only when they are present.</p>
-				<p id="good-aligned-evil-aligned"><b>Good-Aligned/Evil-Aligned</b>: These planes have chosen a side in the battle of good versus evil. No plane can be both good-aligned and evil-aligned.</p>
-				<p id="law-aligned-chaos-aligned"><b>Law-Aligned/Chaos-Aligned</b>: Law versus chaos is the key struggle for these planes and their residents. No plane can be both law-aligned and chaos-aligned. </p>
+				<p id="good-aligned/evil-aligned"><b>Good-Aligned/Evil-Aligned</b>: These planes have chosen a side in the battle of good versus evil. No plane can be both good-aligned and evil-aligned.</p>
+				<p id="law-aligned/chaos-aligned"><b>Law-Aligned/Chaos-Aligned</b>: Law versus chaos is the key struggle for these planes and their residents. No plane can be both law-aligned and chaos-aligned. </p>
 				<p id="neutral-aligned"><b>Neutral-Aligned</b>: These planes stand outside the conflicts between good and evil and law and chaos.</p>
 				<p id="mildly-aligned"><b>Mildly Aligned</b>: Creatures who have an alignment opposite that of a mildly aligned plane take a &ndash;2 circumstance penalty on all Charisma-based checks. A mildly neutral-aligned plane does not apply a circumstance penalty to anyone.</p>
 				<p id="strongly-aligned"><b>Strongly Aligned</b>: On planes that are strongly aligned, a &ndash;2 circumstance penalty applies on all Intelligence-, Wisdom-, and Charisma-based checks made by all creatures not of the plane's alignment. The penalties for the moral and ethical components of the alignment trait stack.</p>
@@ -418,7 +420,7 @@
 				<p id="impeded-magic"><b>Impeded Magic</b>: Particular spells and spell-like abilities are more difficult to cast on planes with this trait, often because the nature of the plane interferes with the spell. To cast an impeded spell, the caster must make a concentration check (DC 20 + the level of the spell). If the check fails, the spell does not function but is still lost as a prepared spell or spell slot. If the check succeeds, the spell functions normally.</p>
 				<p id="limited-magic"><b>Limited Magic</b>: Planes with this trait permit only the use of spells and spell-like abilities that meet particular qualifications. Magic can be limited to effects from certain schools or subschools, effects with certain descriptors, or effects of a certain level (or any combination of these qualities). Spells and spell-like abilities that don't meet the qualifications simply don't work.</p>
 				<p id="wild-magic"><b>Wild Magic</b>: On a plane with the wild magic trait, spells and spell-like abilities function in radically different and sometimes dangerous ways. Any spell or spell-like ability used on a wild magic plane has a chance to go awry. The caster must make a caster level check (DC 15 + the level of the spell or spell-like ability) for the magic to function normally. Failure means that something strange happens; roll d% and consult Table 7&ndash;16: Wild Magic Effects.</p>
-				<table id="table-7-16-wild-magic-effects"><caption>Table:  Wild Magic Effects</caption>
+				<table id="table-7-16:-wild-magic-effects"><caption>Table:  Wild Magic Effects</caption>
 <thead><tr id="d00-effect"><th>d%</th><th>Effect</th></tr></thead>
 <tr><td>01&ndash;19</td><td style="white-space: normal;">The spell rebounds on its caster with normal effect. If the spell cannot affect the caster, it simply fails.</td></tr>
 <tr><td>20&ndash;23</td><td style="white-space: normal;">A circular pit 15 feet wide opens under the caster's feet; it is 10 feet deep per level of the caster.</td></tr>
@@ -508,42 +510,42 @@
 				<li> <b>Timeless</b>: Age, hunger, thirst, afflictions (such as diseases, curses, and poisons), and natural healing don't function in the Astral Plane, though they resume functioning when the traveler leaves the Astral Plane.</li>
 				<li> <b>Mildly Neutral-Aligned</b></li>
 				<li> <b>Enhanced Magic</b>: All spells and spell-like abilities used within the Astral Plane may be employed as if they were improved by the <a href="../coreRulebook/feats.html#quicken-spell"  >Quicken Spell</a> or <a href = "../bestiary/monsterFeats.html#quicken-spell-like-ability"  >Quicken Spell-Like Ability</a> feats. Already quickened spells and spell-like abilities are unaffected, as are spells from magic items. Spells so quickened are still prepared and cast at their unmodified level. As with the <a href="../coreRulebook/feats.html#quicken-spell"  >Quicken Spell</a> feat, only one quickened spell or spell-like ability can be cast per round.</li></ul>
-				<h2 id="abaddon-neutral-evil">Abaddon (Neutral Evil)</h2>
+				<h2 id="abaddon-(neutral-evil)">Abaddon (Neutral Evil)</h2>
 				<p>A realm of vast wastelands under a rotten sky, Abaddon is perpetually cloaked in a cloying black mist and the oppressive twilight of an endless solar eclipse. The poisoned River Styx has its source in Abaddon, before it meanders like a twisted serpent onto other planes. Abaddon may be the most hostile of the Outer Planes; it is the home of the daemons, fiends of pure evil untouched by the struggle between law and chaos, who personify oblivion and destruction. Daemons, which are ruled by four godlike archdaemons, are feared throughout the Great Beyond as devourers of souls.</p>
 				<p>Abaddon has the following traits:</p>
 				<ul><li> <b>Divinely Morphic</b>: Deities with domains in Abaddon can alter the plane at will. </li>
 				<li> <b>Strongly Evil-Aligned</b></li>
 				<li> <b>Enhanced Magic</b>: Spells and spell-like abilities with the evil descriptor are enhanced.</li>
 				<li> <b>Impeded Magic</b>: Spells and spell-like abilities with the good descriptor are impeded.</li></ul>
-				<h2 id="the-abyss-chaotic-evil">The Abyss (Chaotic Evil)</h2>
+				<h2 id="the-abyss-(chaotic-evil)">The Abyss (Chaotic Evil)</h2>
 				<p>Surrounding the Outer Sphere like the impossibly deep skin of an onion, the layered plane of the Abyss begins as gargantuan canyons and yawning chasms in the fabric of the other Outer Planes, bordered by the foul waters of the River Styx. Coterminous with all of the Outer Planes, the infinite layers of the Abyss connect to one another in constantly shifting pathways. There are no rules in the Abyss, nor laws, order, or hope. The Abyss is a perversion of freedom, a nightmare realm of unmitigated horror where desire and suffering are given demonic form, for the Abyss is the spawning ground of the innumerable races of demons, among the oldest beings in all the Great Beyond.</p>
 				<p>The Abyss has the following traits:</p>
 				<ul><li> <b>Divinely Morphic and Sentient</b>: Deities with domains in the Abyss can alter the plane at will, as can the Abyss itself.</li>
 				<li> <b>Strongly Chaos-Aligned and Strongly Evil-Aligned</b></li>
 				<li> <b>Enhanced Magic</b>: Spells and spell-like abilities with the chaotic or evil descriptor are enhanced.</li>
 				<li> <b>Impeded Magic</b>: Spells and spell-like abilities with the lawful or good descriptor are impeded.</li></ul>
-				<h2 id="elysium-chaotic-good">Elysium (Chaotic Good)</h2>
+				<h2 id="elysium-(chaotic-good)">Elysium (Chaotic Good)</h2>
 				<p>A vast land of untamed wilderness and wild passions, Elysium is the plane of benevolent chaos. Freedom and self-sufficiency abound here, personified in the azatas native to the plane. In Elysium, selfless cooperation and fierce competition clash with the violence of a raging thunderstorm, but such conflicts never overshadow the lofty concepts of bravery, creativity, and good unhindered by rules or laws.</p>
 				<p>Elysium has the following traits:</p>
 				<ul><li> <b>Divinely Morphic</b>: Deities with domains in Elysium can alter the plane at will.</li>
 				<li> <b>Strongly Chaos-Aligned and Strongly Good-Aligned</b></li>
 				<li> <b>Enhanced Magic</b>: Spells and spell-like abilities with the chaotic or good descriptor are enhanced. </li>
 				<li> <b>Impeded Magic</b>: Spells and spell-like abilities with the lawful or evil descriptor are impeded.</li></ul>
-				<h2 id="heaven-lawful-good">Heaven (Lawful Good)</h2>
+				<h2 id="heaven-(lawful-good)">Heaven (Lawful Good)</h2>
 				<p>The soaring mountain of Heaven towers high above the Outer Sphere. This ordered realm of honor and compassion is divided into seven layers. Heaven's slopes are filled with planned, orderly cities and tidy, cultivated gardens and orchards. Though they began their existences as mortals, Heaven's native archons see law and good as indivisible halves of the same exalted concept, and array themselves against the cosmic perversions of chaos and evil.</p>
 				<p>Heaven has the following traits:</p>
 				<ul><li> <b>Divinely Morphic</b>: Deities with domains in Heaven can alter the plane at will.</li>
 				<li> <b>Strongly Law-Aligned and Strongly Good-Aligned</b></li>
 				<li> <b>Enhanced Magic</b>: Spells and spell-like abilities with the lawful or good descriptor are enhanced.</li>
 				<li> <b>Impeded Magic</b>: Spells and spell-like abilities with the chaotic or evil descriptor are impeded.</li></ul>
-				<h2 id="hell-lawful-evil">Hell (Lawful Evil)</h2>
+				<h2 id="hell-(lawful-evil)">Hell (Lawful Evil)</h2>
 				<p>The nine layers of Hell form a structured labyrinth of calculated evil where torment goes hand in hand with purification. A plane of iron cities, burning wastelands, frozen glaciers, and endless volcanic peaks, Hell is divided into nine nesting layers, each under the malevolent rule of an archdevil. Torture, anguish, and agony are inevitable in Hell, but they are methodical, not spiteful or capricious, and serve a deliberate master plan under the watchful eyes of the disciplined ranks of Hells' lesser devils. The nine layers of Hell, from first to last, are Avernus, Dis, Erebus, Phlegethon, Stygia, Malebolge, Cocytus, Caina, and Nessus.</p>
 				<p>Hell has the following traits:</p>
 				<ul><li> <b>Divinely Morphic</b>: Deities with domains in Hell can alter the plane at will.</li>
 				<li> <b>Strongly Law-Aligned and Strongly Evil-Aligned</b></li>
 				<li> <b>Enhanced Magic</b>: Spells and spell-like abilities with the lawful or evil descriptor are enhanced. </li>
 				<li> <b>Impeded Magic</b>: Spells and spell-like abilities with the chaotic or good descriptor are impeded.</li></ul>
-				<h2 id="limbo-chaotic-neutral">Limbo (Chaotic Neutral)</h2>
+				<h2 id="limbo-(chaotic-neutral)">Limbo (Chaotic Neutral)</h2>
 				<p>A vast ocean of unrestrained chaos and untapped potential surrounds and is coterminous with each of the Outer Planes. This is Limbo&mdash;beautiful, deadly, and truly endless. From its unplumbed depths were born all the other planes, and to its anarchic deeps will all creation eventually return. Where the formless sea of Limbo laps against the shores of other planes, its substance takes on some measure of stability, and it is within these borderlands that travel is safest, though it is still fraught with danger from Limbo's chaos-warped inhabitants. Deeper into the plane, Limbo's native proteans cavort in the Primal Chaos, creating and destroying the raw stuff of chaos with unfathomable abandon.</p>
 				<p>Limbo has the following traits:</p>
 				<ul><li> <b>Subjective Directional Gravity and Normal Gravity</b>: On the few islands of stability within Limbo, gravity is more likely to be normal (down is toward the center of mass). Everywhere else, gravity is subjective directional.</li>
@@ -551,21 +553,21 @@
 				<li> <b>Highly Morphic</b></li>
 				<li> <b>Strongly Chaos-Aligned</b></li>
 				<li> <b>Wild Magic and Normal Magic</b>: On the few islands of stability within Limbo, magic is more likely to be normal. Magic is wild everywhere else.</li></ul>
-				<h2 id="nirvana-neutral-good">Nirvana (Neutral Good)</h2>
+				<h2 id="nirvana-(neutral-good)">Nirvana (Neutral Good)</h2>
 				<p>Nirvana is an unbiased paradise existing between the two extremes of Elysium and Heaven. Its stunning mountains, rolling hills, and deep forests all match a visitor's expectations of a pastoral paradise, but Nirvana also contains mysteries that lead to enlightenment. Nirvana is a sanctuary and a place of respite for all who seek redemption or illumination. Nirvana's native agathions have willingly postponed their own transcendence to guard Nirvana's enigmas, while celestial beings fight the forces of evil across the planes.</p>
 				<p>Nirvana has the following traits:</p>
 				<ul><li> <b>Divinely Morphic</b>: Deities with domains in Nirvana can alter the plane at will.</li>
 				<li> <b>Strongly Good-Aligned</b></li>
 				<li> <b>Enhanced Magic</b>: Spells and spell-like abilities with the good descriptor are enhanced.</li>
 				<li> <b>Impeded Magic</b>: Spells and spell-like abilities with the evil descriptor are impeded.</li></ul>
-				<h2 id="purgatory-neutral">Purgatory (Neutral)</h2>
+				<h2 id="purgatory-(neutral)">Purgatory (Neutral)</h2>
 				<p>Every soul passes through Purgatory to be judged before being sent on to its final destination in the Great Beyond. Vast graveyards and wastelands fill its gloomy expanses, along with dusty, echoing courts for the judgment of the dead. Purgatory is home to the aeons, a race who embody the dualistic nature of existence and who are constantly both at war and at peace with each other and themselves.</p>
 				<p>Purgatory has the following traits:</p>
 				<ul><li> <b>Timeless</b>: Age, hunger, thirst, afflictions (such as diseases, curses, and poisons), and natural healing don't function in Purgatory, though they resume functioning when the traveler leaves Purgatory.</li>
 				<li> <b>Divinely Morphic</b>: Deities with domains in Purgatory can alter the plane at will.</li>
 				<li> <b>Strongly Neutral-Aligned</b></li>
 				<li> <b>Enhanced Magic</b>: Spells and spell-like abilities with the death descriptor, or from the Death or Repose domains, are enhanced.</li></ul>
-				<h2 id="utopia-lawful-neutral">Utopia (Lawful Neutral)</h2>
+				<h2 id="utopia-(lawful-neutral)">Utopia (Lawful Neutral)</h2>
 				<p>Utopia is a bastion of order against the chaos of Limbo and the countless demonic hordes of the Abyss. A great city of eternal perfection, Utopia's streets and buildings are paragons of architecture and aesthetics; everything is ordered and nothing happens by chance. While no one race rules Utopia, axiomites and inevitables make their homes here, forever striving to expand their perfect city.</p>
 				<p>Utopia has the following traits:</p>
 				<ul><li> <b>Finite Shape</b></li>

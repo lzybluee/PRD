@@ -2196,6 +2196,10 @@ PRD\pathfinderRPG\prd\include\menu.png
 PRD\pathfinderRPG\prd\include\PRD-Logo.png
 PRD\pathfinderRPG\prd\include\PRD-Logo_Mobile.png
 PRD\pathfinderRPG\prd\include\prd-stylesheet.css
+PRD\pathfinderRPG\prd\include\js\jquery-1.10.2.min.js
+PRD\pathfinderRPG\prd\include\js\jquery.cookie.js
+PRD\pathfinderRPG\prd\include\js\jquery.dataTables.min.js
+PRD\pathfinderRPG\prd\include\js\prd-scripts.js
 PRD\pathfinderRPG\prd\index.htm
 PRD\pathfinderRPG\prd\indices\bestiary.html
 PRD\pathfinderRPG\prd\indices\feats.html

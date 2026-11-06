@@ -6,6 +6,8 @@
 	<meta name = "viewport" content = "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 	<title>Feats</title>
 	<link rel = "stylesheet" type = "text/css" href = "../include/prd-stylesheet.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../cdn.paizo.com/chrome/style/jquery.dataTables.min.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../cdn.paizo.com/chrome/style/jquery-ui.min.css"  />
 </head>
 
 <body>
@@ -715,7 +717,7 @@
 				<tr><td><a href ="#craft-wondrous-item" >Craft Wondrous Item</a></td><td>Caster level 3rd</td><td>Create magic wondrous items</td></tr>
 				<tr><td><a href ="#forge-ring" >Forge Ring</a></td><td>Caster level 7th</td><td>Create magic rings</td></tr>
 				<tr><td><a href ="#scribe-scroll" >Scribe Scroll</a></td><td>Caster level 1st</td><td>Create magic scrolls</td></tr>
-				<tr id="table-metamagic-feats"><th>Metamagic Feats</th><th>Prerequisites</th><th>Benefits</th></tr>
+				<tr id="table-metamagic-feats"><th>Metamagic Feats</th><th>Prerequisites</th><th>Benefits</td></tr>
 				<tr><td><a href ="#empower-spell" >Empower Spell</a></td><td>&mdash;</td><td>Increase spell variables by 50%</td></tr>
 				<tr><td><a href ="#enlarge-spell" >Enlarge Spell</a></td><td>&mdash;</td><td>Double spell range</td></tr>
 				<tr><td><a href ="#extend-spell" >Extend Spell</a></td><td>&mdash;</td><td>Double spell duration</td></tr>
@@ -1119,9 +1121,9 @@
 <tr><td>Mephit (any type)</td><td>Neutral</td><td>7th</td></tr>
 <tr><td>Pseudodragon</td><td>Neutral good</td><td>7th</td></tr>
 <tr><td>Quasit</td><td>Chaotic evil</td><td>7th</td></tr>
-<tfoot><tr><td colspan="3">1 Or other celestial animal from the standard familiar list.</td></tr>
-<tr><td colspan="3">2 Or other fiendish animal from the standard familiar list.</td></tr>
-<tr><td colspan="3">3 The master must first create the homunculus.</td></tr></tfoot></table>
+<tfoot><tr><td colspan="3">1 Or other celestial animal from the standard familiar list.</th></tr>
+<tr><td colspan="3">2 Or other fiendish animal from the standard familiar list.</th></tr>
+<tr><td colspan="3">3 The master must first create the homunculus.</th></tr></tfoot></table>
 
 				<p>Improved familiars otherwise use the rules for regular familiars<i>, </i>with two exceptions: if the creature's type is something other than animal, its type does not change; and improved familiars do not gain the ability to speak with other creatures of their kind (although many of them already have the ability to communicate).</p>
 				<h2 id="improved-feint">Improved Feint (Combat)</h2>
@@ -1225,7 +1227,7 @@
 <tr><td>22</td><td>15th</td><td>75</td><td>7</td><td>4</td><td>2</td><td>2</td><td>1</td></tr>
 <tr><td>23</td><td>16th</td><td>90</td><td>9</td><td>5</td><td>3</td><td>2</td><td>1</td></tr>
 <tr><td>24</td><td>17th</td><td>110</td><td>11</td><td>6</td><td>3</td><td>2</td><td>1</td></tr>
-<tr><td>25 or higher</td><td>17th</td><td>135</td><td>13</td><td>7</td><td>4</td><td>2</td><td>2</td></tr></tbody></div></table>
+<tr><td>25 or higher</td><td>17th</td><td>135</td><td>13</td><td>7</td><td>4</td><td>2</td><td>2</td></tr></tbody></table>
 </div>
 				<br><p>You attract followers to your cause and a companion to join you on your adventures.</p>
 				<p class="stat-block-1"><b>Prerequisite:</b> Character level 7th.</p>
@@ -1256,7 +1258,7 @@
 
 				<p class="stat-block-2"><i>Leadership Score</i>: Your base Leadership score equals your level plus your <a href="gettingStarted.html#charisma-new"  >Charisma</a> modifier. In order to take into account negative <a href="gettingStarted.html#charisma-new"  >Charisma</a> modifiers, this table allows for very low Leadership scores, but you must still be 7th level or higher in order to gain the Leadership feat. Outside factors can affect your Leadership score, as detailed above.</p>
 				<p class="stat-block-2"><i>Cohort Level</i>: You can attract a cohort of up to this level. Regardless of your Leadership score, you can only recruit a cohort who is two or more levels lower than yourself. The cohort should be equipped with gear appropriate for its level (see <a href="creatingNPCs.html" >Creating NPCs</a>). A cohort can be of any race or class. The cohort's alignment may not be opposed to your alignment on either the law/chaos or good/evil axis, and you take a &ndash;1 penalty to your Leadership score if you recruit a cohort of an alignment different from your own.<br>
-				</p><p class="stat-block-2">A cohort does not count as a party member when determining the party's XP. Instead, divide the cohort's level by your level. Multiply this result by the total XP awarded to you, then add that number of experience points to the cohort's total.</p>
+				<p class="stat-block-2">A cohort does not count as a party member when determining the party's XP. Instead, divide the cohort's level by your level. Multiply this result by the total XP awarded to you, then add that number of experience points to the cohort's total.</p>
 <p class="stat-block-2">If a cohort gains enough XP to bring it to a level one lower than your level, the cohort does not gain the new level&mdash;its new XP total is 1 less than the amount needed to attain the next level. </p>
 				<p class="stat-block-2"><i>Number of Followers by Level</i>: You can lead up to the indicated number of characters of each level. Followers are similar to cohorts, except they're generally low-level NPCs. Because they're usually 5 or more levels behind you, they're rarely effective in combat.</p>
                 <p class="stat-block-2">Followers don't earn experience and thus don't gain levels. When you gain a new level, consult Table: Leadership to determine if you acquire more followers, some of whom may be higher level than the existing followers. Don't consult the table to see if your cohort gains levels, however, because cohorts earn experience on their own.</p>
@@ -1584,7 +1586,7 @@
 	</div>
 
 	</div>
-
+</div>
 
 
 

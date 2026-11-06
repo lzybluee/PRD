@@ -6,6 +6,8 @@
 	<meta name = "viewport" content = "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 	<title>Orcs</title>
 	<link rel = "stylesheet" type = "text/css" href = "../../include/prd-stylesheet.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery.dataTables.min.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery-ui.min.css"  />
 </head>
 
 <body>
@@ -349,7 +351,7 @@
 <p><b>Female Names</b>: Durra, Grillgiss, Ilyat, Krugga, Leffit, Olbin, Trisgrak.</p>
 
 <h1 id="orc-racial-traits">Orc Racial Traits</h1>
-<p id="4-strength-2-intelligence-2-wisdom-2-charisma"><b>+4 Strength, &ndash;2 Intelligence, &ndash;2 Wisdom, &ndash;2 Charisma</b>: Orcs are brutal and savage.</p>
+<p id="+4-strength,--2-intelligence,--2-wisdom,--2-charisma"><b>+4 Strength, &ndash;2 Intelligence, &ndash;2 Wisdom, &ndash;2 Charisma</b>: Orcs are brutal and savage.</p>
 <p id="orc"><b>Orc</b>: Orcs are humanoids with the orc subtype.</p>
 <p id="medium"><b>Medium</b>: Orcs are Medium creatures and have no bonuses or penalties due to their size.</p>
 <p id="normal-speed"><b>Normal Speed</b>: Orcs have a base speed of 30 feet.</p>
@@ -379,14 +381,14 @@
 <h1 id="racial-archetypes">Racial Archetypes</h1>
 <p>The following racial archetypes are available to orcs.</p>
 
-<h2 id="dirty-fighter-fighter">Dirty Fighter (Fighter)</h2>
+<h2 id="dirty-fighter-(fighter)">Dirty Fighter (Fighter)</h2>
 <p>The dirty fighter laughs at concepts like honor and fair play. He cares only for victory, no matter how he achieves it, and spends as much time mastering sneaky combat maneuvers as he does drilling with weapons or learning how to wear armor. A dirty fighter has the following class features.</p>
 <p id="sidestep"><b><a href="../../advancedPlayersGuide/advancedFeats.html#sidestep"  >Sidestep</a> (Ex)</b>: At 2nd level, a dirty fighter learns how to evade his enemies when they react to his combat maneuvers. He gains a +1 dodge bonus to his AC against attacks of opportunity provoked by him while attempting a combat maneuver. This bonus increases by +1 for every four levels beyond 2nd level. This ability replaces bravery.</p>
 <p id="maneuver-training"><b>Maneuver Training (Ex)</b>: At 5th level, a dirty fighter becomes a master of dirty tricks. He gains a +2 bonus on dirty trick combat maneuver checks  and +2 to his CMD when he is the target of a dirty trick combat maneuver. This ability replaces weapon training 1.</p>
 <p id="speedy-tricks"><b>Speedy Tricks (Ex)</b>: At 9th level, a dirty fighter has perfected how to quickly perform dirty tricks. He can make a dirty trick combat maneuver as an attack instead of a standard action. This ability replaces weapon training 2.</p>
 <p id="double-tricks"><b>Double Tricks (Ex)</b>: At 13th level, when a dirty fighter performs a combat maneuver, he may apply two different conditions to his target instead of one. Each penalty condition requires a separate action to remove. At 17th level, he may apply three different conditions. This ability replaces weapon training 3 and 4.</p>
 
-<h2 id="scarred-witch-doctor-witch">Scarred Witch Doctor (Witch)</h2>
+<h2 id="scarred-witch-doctor-(witch)">Scarred Witch Doctor (Witch)</h2>
 <p>The scarred witch doctor draws power from her ability to endure pain and suffering. She mutilates her own flesh, inflicting horrific scars, in order to attract the attention of her patron. Rather than call forth a familiar, she creates a repulsive fetish mask that she uses as a repository for her power. A scarred witch doctor has the following class features.</p>
 <p id="fierce-intelligence"><strong>Fierce Intelligence</strong>: A scarred witch doctor treats her Intelligence score as 2 points higher when determining the highest level of spells she can cast, the number of spells she can cast per day, her spell save DCs, her number of spells known at 1st level, and any effects of her hexes determined by her Intelligence.</p>
 <p id="hex-scar"><b>Hex Scar</b>: Whenever a scarred witch doctor learns a hex, she must carve or brand a symbol in her flesh to represent this hex. She can disguise these scars with mundane or magical means, but they cannot be permanently removed.</p>
@@ -422,7 +424,7 @@
 <p class="stat-block-1"><b>Prerequisite</b>: Orc.</p>
 <p class="stat-block-1"><b>Benefit</b>: Whenever you kill or knock unconscious an opponent with a melee attack, you gain temporary hit points equal to your Constitution bonus (minimum 1) until your next turn. These temporary hit points do not stack. You do not gain this bonus if the opponent is helpless or has less than half your Hit Dice.</p>
 
-<h3 id="bullying-blow-combat">Bullying Blow (Combat)</h3>
+<h3 id="bullying-blow-(combat)">Bullying Blow (Combat)</h3>
 <p>With a simple hit, you more easily intimidate an opponent.</p>
 <p class="stat-block-1"><b>Prerequisites</b>: <a href="../../coreRulebook/skills/intimidate.html#intimidate"  >Intimidate</a> 1 rank, orc.</p>
 <p class="stat-block-1"><b>Benefit</b>: As a standard action, you may make a melee attack with a &ndash;2 penalty on the attack roll. If the attack damages your opponent, you may make an <a href="../../coreRulebook/skills/intimidate.html#intimidate"  >Intimidate</a> check to demoralize that opponent as a free action.</p>
@@ -438,12 +440,12 @@
 <p class="stat-block-1"><b>Prerequisites</b>: Channel energy class feature, orc.</p>
 <p class="stat-block-1"><b>Benefit</b>: When you channel energy, instead of creating its normal effect, you can give orcs a bonus on weapon damage and critical hit confirmation rolls until your next turn. This bonus is equal to the number of dice your channeled energy normally heals or harms. Your channel has its normal effect on other creatures in the area.</p>
 
-<h3 id="grudge-fighter-combat">Grudge Fighter (Combat)</h3>
+<h3 id="grudge-fighter-(combat)">Grudge Fighter (Combat)</h3>
 <p>You feel great anger at anyone who dares to attack you, and this fury makes your own attacks that much stronger.</p>
 <p class="stat-block-1"><b>Prerequisite</b>: Orc.</p>
 <p class="stat-block-1"><b>Benefit</b>: You gain a +1 morale bonus on attack and damage rolls made against any creature that attacked you in the current combat.</p>
 
-<h3 id="orc-weapon-expertise-combat">Orc Weapon Expertise (Combat) </h3>
+<h3 id="orc-weapon-expertise-(combat)">Orc Weapon Expertise (Combat) </h3>
 <p>You can do more with the weapons orcs favor the most. </p>
 <p class="stat-block-1"><b>Prerequisites</b>: Base attack bonus +1, orc. </p>
 <p class="stat-block-1"><b>Benefit</b>: When you take this feat, choose one of the benefits below. Whenever you wield a weapon that has "orc" in its name, you gain the benefit you chose so long as you are actually proficient with that weapon. </p>
@@ -463,7 +465,7 @@
 <p class="stat-block-1"><b>Prerequisites</b>: Orc, rage class feature.</p>
 <p class="stat-block-1"><b>Benefit</b>: While raging, when under the effect of a fear effect that allows a saving throw, you can make a new saving throw against that fear effect at the start of each of your turns before acting. If you make the new save, the fear effect ends. </p>
 
-<h3 id="reverse-feint-combat">Reverse-Feint (Combat)</h3>
+<h3 id="reverse-feint-(combat)">Reverse-Feint (Combat)</h3>
 <p>You can goad an opponent into attacking you in order to make your counter attack all the more powerful.</p>
 <p class="stat-block-1"><b>Prerequisites</b>: <a href="../../coreRulebook/feats.html#toughness"  >Toughness</a>, base attack bonus +1, orc.</p>
 <p class="stat-block-1"><b>Benefit</b>: As a move action, you can leave a gap in your defenses for one adjacent opponent to use. If the opponent attacks you on its next turn, it gains a +4 bonus on its attack roll. Whether or not the opponent successfully hits, you may attack it as an immediate action with a single melee attack, gaining a +2 bonus on your attack roll.</p>
@@ -475,7 +477,7 @@
 
 <h2 id="orc-magic-items">Orc Magic Items</h2>
 <p>Orcs have access to the following weapon special ability and magic item.</p>
-<p id="fury-born-weapon-special-ability"><b>Fury-Born (weapon special ability)</b>: A <i>fury-born</i> weapon draws power from the anger and frustration the wielder feels when battling foes that refuse to die. Each time the wielder damages an opponent with the weapon, its enhancement bonus increases by +1 when making attacks against that opponent (maximum total enhancement bonus of +5). This extra enhancement bonus goes away if the opponent dies, the wielder uses the weapon to attack a different creature, or 1 hour passes. Only melee weapons can have the <i>fury-born</i> ability.</p>
+<p id="fury-born-(weapon-special-ability)"><b>Fury-Born (weapon special ability)</b>: A <i>fury-born</i> weapon draws power from the anger and frustration the wielder feels when battling foes that refuse to die. Each time the wielder damages an opponent with the weapon, its enhancement bonus increases by +1 when making attacks against that opponent (maximum total enhancement bonus of +5). This extra enhancement bonus goes away if the opponent dies, the wielder uses the weapon to attack a different creature, or 1 hour passes. Only melee weapons can have the <i>fury-born</i> ability.</p>
 <p>Faint enchantment; CL 7th; <a href="../../coreRulebook/feats.html#craft-magic-arms-and-armor"  >Craft Magic Arms and Armor</a>, <i><a href="../../coreRulebook/spells/rage.html#rage"  >rage</a></i>; Price +2 bonus.</p>
 <p id="bonebreaker-gauntlets" class="stat-block-title">Bonebreaker Gauntlets</p>
 <p class="stat-block-1"><b>Aura</b> faint necromancy; <b>CL</b> 5th</p>
@@ -506,7 +508,7 @@
 <p class="stat-block-1"><b>Saving Throw </b>Will negates (harmless); <b>Spell Resistance</b> yes (harmless)</p>
 <p>You greatly magnify the target's ability to smell the presence of blood. The target is considered to have the scent universal monster ability, but only for purposes of detecting and pinpointing injured creatures (below full hit points). Creatures below half their full hit points or suffering bleed damage are considered strong scents for this ability.</p>
 <p>Orcs and any creature under the effects of rage gain a +2 morale bonus on attack and damage rolls against creatures they can smell with this spell, or a +4 morale bonus if the target's blood counts as a strong scent.</p>
-<p id="enemys-heart" class="stat-block-title">Enemy's Heart</p>
+<p id="enemy's-heart" class="stat-block-title">Enemy's Heart</p>
 <p class="stat-block-1"><b>School</b> necromancy [death, <a href="../../bestiary/creatureTypes.html#evil-subtype"  >evil</a>]; <b>Level</b> adept 2, antipaladin 2, cleric 2, witch 2</p>
 <p class="stat-block-1"><b>Casting Time</b> 1 full-round action, special see below</p>
 <p class="stat-block-1"><b>Components</b> V, S, M (target creature's heart)</p>

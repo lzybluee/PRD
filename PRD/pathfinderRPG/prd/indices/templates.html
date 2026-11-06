@@ -6,6 +6,8 @@
 	<meta name = "viewport" content = "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 	<title>Template Index</title>
 	<link rel = "stylesheet" type = "text/css" href = "../include/prd-stylesheet.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../cdn.paizo.com/chrome/style/jquery.dataTables.min.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../cdn.paizo.com/chrome/style/jquery-ui.min.css"  />
 </head>
 
 <body>
@@ -447,8 +449,8 @@
 	<li class = "link-book-monster link-cr-1"><a href = "../monsterCodex/ogres.html#shaggra" >Shaggra</a> (+1 CR)</li>
 	<li class = "link-book-b1 link-cr-2"><a href = "../bestiary/golem.html#shield-guardians" >Shield Guardian</a> (+2 CR)</li>
 	<li class = "link-book-b1 link-cr-1/6 link-cr-1/3 link-cr-1 link-cr-2 link-cr-3 link-cr-4 link-cr-5 link-cr-6 link-cr-7 link-cr-8"><a href = "../bestiary/skeleton.html#skeleton" >Skeleton</a> (CR 1/6&ndash;8)</li>
-	<li class = "link-book-b1 link-cr-1"><a href = "../bestiary/skeleton.html#bloody-skeleton" >Skeleton, Bloody</a> (+1 CR)</li>
-	<li class = "link-book-b1 link-cr-1"><a href = "../bestiary/skeleton.html#burning-skeleton" >Skeleton, Burning</a> (+1 CR)</li>
+	<li class = "link-book-b1 link-cr-1"><a href = "../bestiary/skeleton.html#skeleton" >Skeleton, Bloody</a> (+1 CR)</li>
+	<li class = "link-book-b1 link-cr-1"><a href = "../bestiary/skeleton.html#skeleton" >Skeleton, Burning</a> (+1 CR)</li>
 	<li class = "link-book-b1 link-cr-1"><a href = "../bestiary/skeletalChampion.html#skeletal-champion" >Skeletal Champion</a> (+1 CR)</li>
 	<li class = "link-book-monster link-cr-1 link-cr-2 link-cr-3"><a href = "../monsterCodex/appendix.html#sorcerer-creature" >Sorcerer Creature</a> (+1&ndash;+3 CR)</li>
 </ul>
@@ -463,7 +465,7 @@
 <ul id = "index-templates-V" title = "V Templates">
 	<li class = "link-book-b5 link-cr-2"><a href = "../bestiary5/vahana.html#creating-vahana" >Vahana</a> (+2 CR)</li>
 	<li class = "link-book-b1 link-cr-2"><a href = "../bestiary/vampire.html#vampire" >Vampire, Common/Moroi</a> (+2 CR)</li>
-	<li class = "link-book-b3 link-cr-2"><a href = "../bestiary3/vampire.html#vampire-jiang-shi" >Vampire, Jiang Shi</a> (+2 CR)</li>
+	<li class = "link-book-b3 link-cr-2"><a href = "../bestiary3/vampire.html#vampire,-jiang-shi" >Vampire, Jiang Shi</a> (+2 CR)</li>
 	<li class = "link-book-b4 link-cr-2"><a href = "../bestiary4/vampire.html#vampire-nosferatu" >Vampire, Nosferatu</a> (+2 CR)</li>
 	<li class = "link-book-monster link-cr-0"><a href = "../monsterCodex/vampires.html#addle-minded" >Vampire Minion, Addle-Minded</a> (+0 CR)</li>
 	<li class = "link-book-monster link-cr-1"><a href = "../monsterCodex/vampires.html#addle-minded" >Vampire Minion, Repeatedly Drained</a> (-1 CR)</li>
@@ -483,7 +485,7 @@
 <ul id = "index-templates-Z" title = "Z Templates">
 	<li class = "link-book-b1 link-cr-1/8 link-cr-1/4 link-cr-1/2 link-cr-1 link-cr-2 link-cr-3 link-cr-4 link-cr-5 link-cr-6 link-cr-7 link-cr-8 link-cr-9"><a href = "../bestiary/zombie.html#zombie" >Zombie</a> (CR 1/8&ndash;9)</li>
 	<li class = "link-book-b1 link-cr-1/8 link-cr-1/4 link-cr-1/2 link-cr-1 link-cr-2 link-cr-3 link-cr-4 link-cr-5 link-cr-6 link-cr-7 link-cr-8 link-cr-9"><a href = "../bestiary/zombie.html#fast-zombie" >Zombie, Fast</a> (CR 1/8&ndash;9)</li>
-	<li class = "link-book-b2 link-cr-1"><a href = "../bestiary2/zombie.html#zombie-juju" >Zombie, Juju</a> (+1 CR)</li>
+	<li class = "link-book-b2 link-cr-1"><a href = "../bestiary2/zombie.html#zombie,-juju" >Zombie, Juju</a> (+1 CR)</li>
 	<li class = "link-book-b4 link-cr-1"><a href = "../bestiary4/zombieLord.html#zombie-lord" >Zombie Lord</a> (+1 CR)</li>
 	<li class = "link-book-b1 link-cr-1/8 link-cr-1/4 link-cr-1/2 link-cr-1 link-cr-2 link-cr-3 link-cr-4 link-cr-5 link-cr-6 link-cr-7 link-cr-8 link-cr-9"><a href = "../bestiary/zombie.html#plague-zombie" >Zombie, Plague</a> (CR 1/8&ndash;9)</li>
 	<li class = "link-book-b2 link-cr-1 link-cr-2 link-cr-3 link-cr-4 link-cr-5 link-cr-6 link-cr-7 link-cr-8 link-cr-9 link-cr-10"><a href = "../bestiary2/akata.html#void-zombie" >Zombie, Void</a> (+1 CR)</li>
@@ -510,256 +512,60 @@
 
 
 
-<script type="text/javascript">
-/* Index filter controls restored. The original paizo/aonprd site drove these
-   checkboxes, radios, "Uncheck All" links, Reset Filters, the results counter,
-   the APL helper links and the show-only toggles with jQuery loaded from a CDN
-   that was never mirrored, so in this offline copy they did nothing. This
-   block reimplements that behaviour locally and runs in the CHM (IE engine).
-   Facet groups are the "link-by-*" control clusters of one bar each; within a
-   facet an entry stays visible while any of its matching boxes is checked,
-   and separate facets combine by intersection. */
-(function () {
-  var doc = document;
-  var inputs = [];
-  var groups = [];
-  var groupIndex = {};
-  var bars = [];
-  var entries = [];
-  var displayToken = null;
-  var displayAnchors = [];
-
-  function trim(s) { return s.replace(/^\s+/, "").replace(/\s+$/, ""); }
-
-  function barId(el) {
-    var n = el;
-    while (n && n.tagName !== "P" && n !== doc.body) n = n.parentNode;
-    if (!n) n = doc.body;
-    if (n.__fi_bar == null) { n.__fi_bar = bars.length; bars.push(n); }
-    return n.__fi_bar;
-  }
-
-  function matches(rec, toks) {
-    var k;
-    if (toks[rec.t1] || toks[rec.t2]) return true;
-    if (rec.prefix) {
-      for (k in toks) if (k.indexOf(rec.prefix) === 0) return true;
-      return false;
-    }
-    if (rec.re) {
-      for (k in toks) if (rec.re.test(k)) return true;
-      return false;
-    }
-    return false;
-  }
-
-  function crValueOf(toks) {
-    var k;
-    for (k in toks) {
-      if (k.indexOf("link-cr-") === 0) {
-        var v = k.substring(8);
-        if (v.length === 3 && v.charAt(1) === "-") return 1 / parseInt(v.substring(2), 10);
-        return parseInt(v, 10);
-      }
-    }
-    return null;
-  }
-
-  function refresh() {
-    var visible = 0, i, gi;
-    for (i = 0; entries.length > i; i++) {
-      var e = entries[i], hide = false;
-      for (gi = 0; groups.length > gi && !hide; gi++) {
-        var arr = e.m[gi];
-        if (!arr) continue;
-        if (groups[gi].kind === "radio") {
-          var sel = null, k, ok = false;
-          for (k = 0; groups[gi].inputs.length > k; k++) {
-            if (groups[gi].inputs[k].el.checked) { sel = groups[gi].inputs[k]; break; }
-          }
-          if (sel) {
-            for (k = 0; arr.length > k; k++) if (arr[k] === sel) { ok = true; break; }
-            if (!ok) hide = true;
-          }
-        } else {
-          var anyC = false, k2;
-          for (k2 = 0; arr.length > k2; k2++) if (arr[k2].el.checked) { anyC = true; break; }
-          if (!anyC) hide = true;
-        }
-      }
-      if (!hide && displayToken && !e.toks[displayToken]) hide = true;
-      e.el.style.display = hide ? "none" : "";
-      if (!hide) visible++;
-    }
-    var res = doc.getElementById("results");
-    if (res) res.innerHTML = visible + " Results";
-  }
-
-  /* register filter inputs */
-  var allInputs = doc.getElementsByTagName("input"), i, j;
-  for (i = 0; allInputs.length > i; i++) {
-    var inp = allInputs[i];
-    if (inp.type !== "checkbox" && inp.type !== "radio") continue;
-    var cls = trim(inp.className || "").split(/\s+/), dim = null;
-    for (j = 0; cls.length > j; j++) {
-      if (cls[j].substring(0, 8) === "link-by-") { dim = cls[j].substring(8); break; }
-    }
-    if (!dim) continue;
-    var rec = { el: inp, dim: dim, kind: inp.type,
-      t1: "link-" + dim + "-" + inp.value, t2: "link-" + inp.value,
-      prefix: null, re: null };
-    if (inp.type === "radio") rec.prefix = "list-" + inp.value + "-";
-    else if (dim === "level") rec.re = new RegExp("^list-[A-Za-z][A-Za-z-]*-" + inp.value + "$");
-    var gk = dim + "|" + inp.type + "|" + barId(inp);
-    var gi = groupIndex[gk];
-    if (gi == null) { gi = groups.length; groupIndex[gk] = gi; groups.push({ dim: dim, kind: inp.type, inputs: [] }); }
-    groups[gi].inputs.push(rec);
-    inputs.push(rec);
-    inp.__fi_rec = rec;
-    inp.onclick = refresh;
-  }
-
-  /* collect the index rows */
-  var allEls = doc.getElementsByTagName("*");
-  for (i = 0; allEls.length > i; i++) {
-    var el = allEls[i], cn = el.className;
-    if (!cn || typeof cn !== "string") continue;
-    if (cn.indexOf("link-") === -1 && cn.indexOf("list-") === -1) continue;
-    var toks = {}, tarr = trim(cn).split(/\s+/), hit = false, m = [], gi2, k;
-    for (j = 0; tarr.length > j; j++) if (tarr[j]) toks[tarr[j]] = 1;
-    for (gi2 = 0; groups.length > gi2; gi2++) {
-      var g = groups[gi2], arr = null;
-      for (k = 0; g.inputs.length > k; k++) {
-        if (matches(g.inputs[k], toks)) { if (!arr) arr = []; arr.push(g.inputs[k]); }
-      }
-      if (arr) { hit = true; m[gi2] = arr; }
-    }
-    if (!hit) continue;
-    entries.push({ el: el, toks: toks, m: m, a: el.getElementsByTagName("a")[0] || null, cr: crValueOf(toks) });
-  }
-
-  /* "Uncheck All" / "Check All" links: act on the checkboxes of their own bar
-     that precede them; two directly adjacent such links share one section */
-  function wireBarActions() {
-    var b, i;
-    for (b = 0; bars.length > b; b++) {
-      var nodes = bars[b].getElementsByTagName("*"), seq = [];
-      for (i = 0; nodes.length > i; i++) {
-        var nd = nodes[i];
-        if (nd.__fi_rec) { seq.push({ isA: false, rec: nd.__fi_rec }); continue; }
-        if (nd.tagName === "A") {
-          var t = trim(nd.innerHTML || "");
-          if (t === "Uncheck All" || t === "Check All") seq.push({ isA: true, el: nd, want: t === "Check All" });
-        }
-      }
-      var bucket = [];
-      for (i = 0; seq.length > i; i++) {
-        if (!seq[i].isA) { bucket.push(seq[i].rec); continue; }
-        seq[i].list = bucket;
-        var nxt = seq[i + 1];
-        if (!(nxt && nxt.isA)) bucket = [];
-      }
-      for (i = 0; seq.length > i; i++) {
-        if (!seq[i].isA) continue;
-        seq[i].el.onclick = (function (list, want) {
-          return function () {
-            var q;
-            for (q = 0; list.length > q; q++) if (list[q].kind === "checkbox") list[q].el.checked = want;
-            refresh();
-            return false;
-          };
-        })(seq[i].list, seq[i].want);
-      }
-    }
-  }
-
-  /* Reset Filters */
-  var resetA = doc.getElementById("resetFilters");
-  if (resetA) resetA.onclick = function () {
-    var i;
-    for (i = 0; inputs.length > i; i++) inputs[i].el.checked = (inputs[i].kind === "checkbox");
-    displayToken = null;
-    for (i = 0; displayAnchors.length > i; i++) displayAnchors[i].el.style.textDecoration = "";
-    clearCrColors();
-    refresh();
-    return false;
-  };
-
-  /* show-only toggles (bestiary Additional Filters) */
-  var dispDefs = [
-    ["displayCompanions", "link-sup-companion"],
-    ["displayCharacters", "link-sup-character"],
-    ["displayCohorts", "link-sup-cohort"],
-    ["displayFamiliars", "link-sup-familiar"]
-  ];
-  for (i = 0; dispDefs.length > i; i++) {
-    (function (id, tok) {
-      var a = doc.getElementById(id);
-      if (!a) return;
-      displayAnchors.push({ el: a, tok: tok });
-      a.onclick = function () {
-        displayToken = (displayToken === tok) ? null : tok;
-        var q;
-        for (q = 0; displayAnchors.length > q; q++)
-          displayAnchors[q].el.style.textDecoration = (displayAnchors[q].tok === displayToken) ? "underline" : "";
-        refresh();
-        return false;
-      };
-    })(dispDefs[i][0], dispDefs[i][1]);
-  }
-
-  /* APL helpers (bestiary); difficulty bands per PRD Table 12-1 */
-  function clearCrColors() {
-    var i;
-    for (i = 0; entries.length > i; i++) if (entries[i].a) entries[i].a.className = "";
-  }
-  function colorByApl(a) {
-    var i;
-    for (i = 0; entries.length > i; i++) {
-      var e = entries[i];
-      if (e.cr == null || !e.a) continue;
-      var c = "cr-epic";
-      if (e.cr <= a - 1) c = "cr-easy";
-      else if (e.cr === a) c = "cr-average";
-      else if (e.cr === a + 1) c = "cr-challenging";
-      else if (e.cr === a + 2) c = "cr-hard";
-      e.a.className = c;
-    }
-  }
-  function aplValue() {
-    var t = doc.getElementById("apl-text"), a = parseInt(t ? t.value : "", 10);
-    return (isNaN(a) || 1 > a) ? null : a;
-  }
-  var calcA = doc.getElementById("calculateCR");
-  if (calcA) calcA.onclick = function () {
-    var a = aplValue();
-    if (!a) return false;
-    var d = [["easy-text", a - 1], ["average-text", a], ["challenging-text", a + 1],
-             ["hard-text", a + 2], ["epic-text", a + 3]], i;
-    for (i = 0; d.length > i; i++) {
-      var f = doc.getElementById(d[i][0]);
-      if (f) f.value = (1 > d[i][1]) ? "" : String(d[i][1]);
-    }
-    colorByApl(a);
-    return false;
-  };
-  var selA = doc.getElementById("setupCRs");
-  if (selA) selA.onclick = function () {
-    var a = aplValue();
-    if (!a) return false;
-    var want = {}, x, i;
-    for (x = a - 1; a + 3 >= x; x++) if (x >= 1) want[String(x)] = 1;
-    for (i = 0; inputs.length > i; i++) {
-      if (inputs[i].dim === "cr") inputs[i].el.checked = !!want[inputs[i].el.value];
-    }
-    colorByApl(a);
-    refresh();
-    return false;
-  };
-
-  wireBarActions();
-  refresh();
-})();
+<script type = "text/javascript" src = "../include/js/jquery-1.10.2.min.js"></script>
+<script type = "text/javascript" src = "../include/js/jquery.cookie.js"></script>
+<script type = "text/javascript" src = "../include/js/jquery.dataTables.min.js"></script>
+<script type = "text/javascript">
+/* The CHM viewer renders in IE7 mode, which lacks Array.prototype.indexOf
+   (used by prd-scripts.js setupAPL / setupBestiaryCRs). */
+if (!Array.prototype.indexOf) {
+	Array.prototype.indexOf = function (v) {
+		for (var i = 0; i < this.length; i++) { if (this[i] === v) { return i; } }
+		return -1;
+	};
+}
+/* IE7 mode (CHM viewer) has no getElementsByClassName, so each ".link-xxx" /
+   ".link-xxx:visible" query in prd-scripts.js scans the whole page and the
+   filters stall. Answer those simple queries from a class index instead. */
+(function ($) {
+	if (!$ || document.getElementsByClassName) { return; }
+	var re = /^\.(link-[\w-]+)(:visible)?$/, index = null, count = -1, find = $.find, k;
+	function build(all) {
+		var i, j, c;
+		index = {};
+		count = all.length;
+		for (i = 0; i < all.length; i++) {
+			c = all[i].className;
+			if (!c || typeof c !== "string" || c.indexOf("link-") === -1) { continue; }
+			c = c.split(/\s+/);
+			for (j = 0; j < c.length; j++) {
+				if (c[j].indexOf("link-") === 0) { (index[c[j]] || (index[c[j]] = [])).push(all[i]); }
+			}
+		}
+	}
+	function shown(el) {
+		for (; el && el.nodeType === 1; el = el.parentNode) {
+			if (el.currentStyle && el.currentStyle.display === "none") { return false; }
+		}
+		return true;
+	}
+	$.find = function (sel, ctx, results, seed) {
+		var m = typeof sel === "string" && !seed && (!ctx || ctx === document) && re.exec(sel), all, list, out, i;
+		if (!m) { return find.apply(this, arguments); }
+		all = document.getElementsByTagName("*");
+		if (all.length !== count) { build(all); }
+		list = index[m[1]] || [];
+		out = results || [];
+		for (i = 0; i < list.length; i++) { if (!m[2] || shown(list[i])) { out.push(list[i]); } }
+		return out;
+	};
+	for (k in find) { $.find[k] = find[k]; }
+})(window.jQuery);
+</script>
+<script type = "text/javascript" src = "../include/js/prd-scripts.js"></script>
+<script type = "text/javascript">
+/* prd-scripts.js runs setupTemplates() only once on load; re-run it when a book box is clicked. */
+$(function () { $(".link-by-book").click(setupTemplates); });
 </script>
 
 </body>

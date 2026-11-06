@@ -6,6 +6,8 @@
 	<meta name = "viewport" content = "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 	<title>Siege Engines</title>
 	<link rel = "stylesheet" type = "text/css" href = "../../include/prd-stylesheet.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery.dataTables.min.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery-ui.min.css"  />
 </head>
 
 <body>
@@ -426,7 +428,7 @@
 <tr><td>&nbsp;&nbsp;Bombard, heavy</td><td>16,000 gp</td><td>9d6</td><td>&times;4</td><td>200 ft. (100 ft. min.)</td><td>B and P</td><td>4</td><td>3</td><td>5</td><td>0 ft.</td></tr>
 <tr><td>&nbsp;&nbsp;Catapult, heavy</td><td>1,000 gp</td><td>8d6</td><td>&times;2</td><td>300 ft. (100 ft. min.)</td><td>B</td><td>4</td><td>3</td><td>3</td><td>0 ft.</td></tr>
 <tr><td>&nbsp;&nbsp;Trebuchet, heavy</td><td>1,500 gp</td><td>8d6</td><td>&times;2</td><td>400 ft. (200 ft. min.)</td><td>B</td><td>4</td><td>3</td><td>3</td><td>0 ft.</td></tr>
-<tfoot><tr><td colspan="10"><sup>1</sup> A weapon with two types is both types if the entry specifies "and."</td></tr></tfoot></table>
+<tfoot><tr><td colspan="10"><sup>1</sup> A weapon with two types is both types if the entry specifies "and."</td></tr></table>
 
 				<p>The following are siege weapon descriptions.</p>
 				<p id="ballista"><b>Ballista</b>: Resembling a massive crossbow, a ballista's power is provided by twisted skeins of animal sinew used as torsion springs driving a pair of adjustable arms. A cord attached to both arms is winched back and a projectile is loaded into a grooved slider for release. Ballistae are direct-fire weapons.</p>
@@ -442,7 +444,7 @@
 				<p id="light" class="stat-block-2"><i>Light</i>: These catapults are Large and often mounted on wheels. The targeting DC of a light catapult is 15. Light catapults have a hardness of 5 and 50 hit points. Light catapult stones cost 10 gp and weigh 50 pounds each.</p>
 				<br><p id="standard" class="stat-block-2"><i>Standard</i>: These Huge siege engines are too large to be transported to the battlefield in one piece, and require assembly. They typically hurl large stones indirectly at a target (targeting DC 20). Standard catapults have a hardness of 5 and 100 hit points. Standard catapult stones cost 15 gp and weigh 75 pounds each.</p>
 				<br><p id="heavy" class="stat-block-2"><i>Heavy</i>: These Gargantuan siege engines are too large to be transported to the battlefield in one piece, and require assembly. They typically hurl large stones indirectly at a target (targeting DC 25). Heavy catapults have a hardness of 5 and 200 hit points. Heavy catapult stones cost 25 gp and weigh 90 pounds each.</p>
-				<p id="fiends-mouth-cannon"><b>Fiend's Mouth Cannon</b>: These massive cannons are usually crafted in multiple pieces, and sometimes feature the heads of demons, devils, or other fiends at their mouths. Like normal canons, they propel their projectiles with great force. A fiend's mouth cannon has a misfire range of 1 (30 ft.). Fiend's mouth canons have a hardness of 10 and 140 hit points. Fiend's mouth cannon balls cost 45 gp and weigh 30 pounds each.</p>
+				<p id="fiend's-mouth-cannon"><b>Fiend's Mouth Cannon</b>: These massive cannons are usually crafted in multiple pieces, and sometimes feature the heads of demons, devils, or other fiends at their mouths. Like normal canons, they propel their projectiles with great force. A fiend's mouth cannon has a misfire range of 1 (30 ft.). Fiend's mouth canons have a hardness of 10 and 140 hit points. Fiend's mouth cannon balls cost 45 gp and weigh 30 pounds each.</p>
 				<p id="firedrake"><b>Firedrake</b>: These large siege engines are typically wheeled or attached to vehicles that can transport them to the battlefield. This apparatus fires gouts of alchemist's fire in either a 60-foot line or a 30-foot cone (siege crew leader's choice). Targets in the area take 6d6 points of fire damage (DC 15 Reflex save halves); those who fail their saves also catch on fire. A firedrake with the broken condition that suffers a further mishap explodes, dealing its damage to all creatures within a 20-foot blast (DC 15 Reflex save halves). Firedrakes have a hardness of 10 and 70 hit points. One use of firedrake ammunition costs 200 gp and weighs 20 pounds.</p>
 				<p id="firewyrm"><b>Firewyrm</b>: This siege engine is a larger version of the firedrake. A firewyrm is too large to be transported to the battlefield in one piece and must be assembled once the component parts reach the battlefield. A firewyrm fires its gout of flame in either a 120-foot line or a 60-foot cone (crew leader's choice). Targets in the area take 6d6 points of fire damage (DC 20 Reflex save halves). Those who fail their saves catch on fire. A firewyrm with the broken condition that suffers a further mishap explodes, dealing its damage to all creatures within a 30-foot blast (DC 20 Reflex save halves). Firewyrms have a hardness of 10 and 140 hit points. One use of firewyrm ammunition costs 400 gp and weighs 40 pounds.</p>
 				<p id="springal"><b>Springal</b>: A springal uses a torsion-cranked composite paddle to strike a firing rack containing multiple arrows or black-powder-propelled rockets, which rain down in an arc over a burst area. Springals are indirect-fire weapons that affect an area centered on the target square.</p>
@@ -505,7 +507,7 @@
 <tr><td>&nbsp;&nbsp;Gargantuan</td><td>5000 gp</td><td>&mdash; </td><td>&mdash;</td><td>&mdash;</td><td>24</td><td>15 ft.</td></tr>
 <tr><td>&nbsp;&nbsp;Colossal</td><td>10,000 gp</td><td>&mdash; </td><td>&mdash;</td><td>&mdash;</td><td>48</td><td>15 ft.</td></tr></table>
 
-				<p id="bridge-assault"><b>Bridge, Assault</b>: An assault bridge is used to span a ditch, moat, or other gap. Raising an assault bridge requires one full-round action per 5 feet of length; up to four creatures may cooperate to raise a bridge. The time required is doubled for each size category that the bridge is larger than the creatures raising it. Large assault bridges have 40 hit points, Huge ones have 60 hit points, Gargantuan ones have 160 hit points, and Colossal ones have 240 hit points.</p>
+				<p id="bridge,-assault"><b>Bridge, Assault</b>: An assault bridge is used to span a ditch, moat, or other gap. Raising an assault bridge requires one full-round action per 5 feet of length; up to four creatures may cooperate to raise a bridge. The time required is doubled for each size category that the bridge is larger than the creatures raising it. Large assault bridges have 40 hit points, Huge ones have 60 hit points, Gargantuan ones have 160 hit points, and Colossal ones have 240 hit points.</p>
 
 				<table><caption>Table: Bridges and Escalade Ladders</caption>
 				<thead><tr><th>Size</th><th>Width</th><th>Length/Height</th></tr></thead>
@@ -519,7 +521,7 @@
 				<p id="gallery"><b>Gallery</b>: A mobile temporary defense, a gallery is similar to a building made of hide or wood. Most are of flimsy construction, but rare examples are more stoutly built (use the rules for giving siege engines armor, and adjust AC, hardness, and hit points accordingly). Galleries are almost always a single section of movable "wall" plus another section that acts as the "roof." (Galleries made to house battering rams are an exception, and typically have two joined wall sections and roof sections.) Because a gallery is partially open, it does not provide the same cover as a normal building: a creature inside a gallery gains cover if it is the same size as the gallery, improved cover if it is one size smaller, and total cover if it is two or more sizes smaller. Galleries are sized like creatures&mdash;a Larger gallery protects the same space as a Large creature, and so on.</p>
 				<p>Wooden galleries can be moved on rollers at a speed of 10 feet with their full crew, or 5 feet with at least half the required crew. Galleries have a base speed of 15 feet (or 10 feet if protected with medium or heavy armor).</p>
 				<p>Galleries have a hardness of 5, and hit points based on their size. A Large gallery has 30 hit points, a Huge one has 120 hit points, a Gargantuan one has 320 hit points, and a colossal one has 625 hit points. </p>
-				<p id="ladder-escalade"><b>Ladder, Escalade</b>: Escalade ladders have spiked bases for stability, and the upper 5 feet are metal-shod, with hardness 10 and 20 hit points. The remainder of the ladder is wooden and has hardness 5 and hit points based on its size. Large escalade ladders have 20 hit points, Huge ones have 30 hit points, Gargantuan ones have 80 hit points, and Colossal ones have 120 hit points. Escalade ladders cannot be armored.</p>
+				<p id="ladder,-escalade"><b>Ladder, Escalade</b>: Escalade ladders have spiked bases for stability, and the upper 5 feet are metal-shod, with hardness 10 and 20 hit points. The remainder of the ladder is wooden and has hardness 5 and hit points based on its size. Large escalade ladders have 20 hit points, Huge ones have 30 hit points, Gargantuan ones have 80 hit points, and Colossal ones have 120 hit points. Escalade ladders cannot be armored.</p>
 				<p id="rams"><b>Rams</b>: The most basic close assault weapons are iron-shod logs carried by one or more creatures to combine their strength. A ram can be used to deal damage or to make a Strength check against the target's break DC.</p>
 				<p id="ramming-charge" class="stat-block-2"><i>Ramming Charge</i>: Rams require momentum to be effective. All creatures using the ram must use the charge action to gain its full effect. Creatures not wishing to charge may make a ram attack as a full-round action, taking a &ndash;4 penalty on attack and damage rolls and Strength checks with the ram. </p>
 				<br><p id="breaking" class="stat-block-2"><i>Breaking</i>: The crew leader makes a Strength check with a +2 bonus, adding +2 for each member of the crew (or equivalent number of larger creatures) assisting. The ram also provides a +4 bonus per size category above Medium. </p>
@@ -597,7 +599,7 @@
 	</div>
 
 	</div>
-
+</div>
 
 
 

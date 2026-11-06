@@ -6,6 +6,8 @@
 	<meta name = "viewport" content = "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 	<title>Goblins</title>
 	<link rel = "stylesheet" type = "text/css" href = "../../include/prd-stylesheet.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery.dataTables.min.css"  />
+	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery-ui.min.css"  />
 </head>
 
 <body>
@@ -350,7 +352,7 @@
 <p><b>Female Names</b>: Geedra, Goomluga, Hoglob, Luckums.</p>
 
 <h1 id="goblin-racial-traits">Goblin Racial Traits</h1>
-<p id="4-dexterity-2-strength-2-charisma"><b>+4 Dexterity, &ndash;2 Strength, &ndash;2 Charisma</b>: Goblins are fast, but weak and unpleasant to be around.</p>
+<p id="+4-dexterity,--2-strength,--2-charisma"><b>+4 Dexterity, &ndash;2 Strength, &ndash;2 Charisma</b>: Goblins are fast, but weak and unpleasant to be around.</p>
 <p id="goblinoid"><b>Goblinoid</b>: Goblins are humanoids with the goblinoid subtype.</p>
 <p id="small"><b>Small</b>: Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a &ndash;1 penalty to their CMB and CMD, and a +4 size bonus on <a href="../../coreRulebook/skills/stealth.html#stealth"  >Stealth</a> checks.</p>
 <p id="fast"><b>Fast</b>: Goblins are fast for their size, and have a base speed of 30 feet.</p>
@@ -363,7 +365,7 @@
 <p id="cave-crawler"><b>Cave Crawler</b>: Some goblins are born and raised in caves and rarely see the light of day. Goblins with this trait gain a climb speed of 10 feet and the +8 racial bonus on <a href="../../coreRulebook/skills/climb.html#climb"  >Climb</a> checks associated with having a climb speed. Goblins with this racial trait have a base speed of 20 feet and lose the fast movement racial trait.</p>
 <p id="city-scavenger"><b>City Scavenger</b>: Goblins who live within the boundaries of human cities survive by scavenging for refuse and hunting stray animals. Goblins with this trait gain a +2 racial bonus on <a href="../../coreRulebook/skills/perception.html#perception"  >Perception</a> and <a href="../../coreRulebook/skills/survival.html#survival"  >Survival</a> checks, and can use <a href="../../coreRulebook/skills/survival.html#survival"  >Survival</a> to forage for food while in a city. This racial trait replaces skilled.</p>
 <p id="eat-anything"><b>Eat Anything</b>: Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on <a href="../../coreRulebook/skills/survival.html#survival"  >Survival</a> checks to forage for food and a +4 racial bonus on saves versus effects that cause the nauseated or sickened conditions. This racial trait replaces skilled.</p>
-<p id="hard-head-big-teeth"><b>Hard Head, Big Teeth</b>: Goblins are known for their balloonlike heads and enormous maws, but some have even more exaggeratedly large heads filled with razor-sharp teeth. Goblins with this trait gain a bite attack as a primary natural attack that deals 1d4 points of damage. This racial trait replaces skilled.</p>
+<p id="hard-head,-big-teeth"><b>Hard Head, Big Teeth</b>: Goblins are known for their balloonlike heads and enormous maws, but some have even more exaggeratedly large heads filled with razor-sharp teeth. Goblins with this trait gain a bite attack as a primary natural attack that deals 1d4 points of damage. This racial trait replaces skilled.</p>
 <p id="over-sized-ears"><b>Over-Sized Ears</b>: While goblins' ears are never dainty, these goblins have freakishly large ears capable of picking up even the smallest sounds. Goblins with this racial trait gain a +4 bonus on <a href="../../coreRulebook/skills/perception.html#perception"  >Perception</a> checks. This racial trait replaces skilled. </p>
 <p id="tree-runner"><b>Tree Runner</b>: In trackless rain forests and marshes, it can be difficult to find dry ground to build on. Goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on <a href="../../coreRulebook/skills/acrobatics.html#acrobatics"  >Acrobatics</a> and <a href="../../coreRulebook/skills/climb.html#climb"  >Climb</a> checks. This racial trait replaces skilled.</p>
 <p id="weapon-familiarity"><b>Weapon Familiarity</b>: Goblins' traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word "goblin" in it as martial weapons. This racial trait replaces skilled.</p>
@@ -386,7 +388,7 @@
 <h1 id="racial-archetypes">Racial Archetypes</h1>
 <p>The following racial archetypes are available to goblins.</p>
 
-<h2 id="feral-gnasher-barbarian">Feral Gnasher (Barbarian)</h2>
+<h2 id="feral-gnasher-(barbarian)">Feral Gnasher (Barbarian)</h2>
 <p>Feral gnashers grow up in the wild, either raised by animals or scraping by on their own, and soon learn to fend for themselves. These barbarians often utilize pieced-together armor and fight with their sharp teeth and whatever improvised weapons are within reach. A feral gnasher has the following class features.</p>
 <p><b id="Anchor-10" >Weapon and Armor Proficiency</b>: A feral gnasher loses all martial weapon proficiencies except for greatclub and loses proficiency with medium armor.</p>
 <p id="savage-bite"><b>Savage Bite (Ex)</b>: At 1st level, a feral gnasher gains a savage bite attack. This is a primary natural attack that deals 1d4 points of damage. If the goblin already has the hard head, big teeth racial trait, the damage increases to 1d6. At 10th level, the damage from a feral gnasher's bite increases to 1d6 (or 1d8 if the goblin has the hard head, big teeth racial trait) and deals &times;3 damage on a critical hit. This ability replaces fast movement.</p>
@@ -398,10 +400,10 @@
 <p id="wicked-improvisation"><b>Wicked Improvisation (Ex)</b>: At 12th level, a feral gnasher becomes more capable with improvised weapons and natural attacks. The feral gnasher gains a +1 competence bonus on damage rolls when using natural attacks or improvised weapons while raging. At 14th level and every two levels thereafter, the damage bonus increases by +1. This increase is not precision damage and is thus multiplied on a critical hit. This ability replaces trap sense +4.</p>
 <p id="rage-powers"><b>Rage Powers</b>: The following rage powers complement the feral gnasher archetype: increased damage reduction, scent, superstition ; beast totem, beast totem (greater), beast totem (lesser)  eater of magic, ghost rager.</p>
 
-<h2 id="fire-bomber-alchemist">Fire Bomber (Alchemist)</h2>
+<h2 id="fire-bomber-(alchemist)">Fire Bomber (Alchemist)</h2>
 <p>Fire bombers are exceptionally good at using bombs to burn creatures and blow things up, but are not quite as good at creating other types of bombs or extracts. A fire bomber has the following class features.</p>
 <p id="weapon-and-armor-proficiency"><b>Weapon and Armor Proficiency</b>: A fire bomber treats torches as a simple weapon.</p>
-<p id="fire-bombardier-su-or-ex"><b>Fire Bombardier (Su or Ex)</b>: At 1st level, when a fire bomber throws a bomb that deals fire damage, all creatures in the splash radius take an additional point of damage per die of fire damage dealt. Fire bombers only add their Intelligence bonus to damage from bombs or alchemical substances that deal fire damage. This otherwise works like the alchemist's bomb and throw anything abilities. This ability alters bomb and throw anything.</p>
+<p id="fire-bombardier-(su-or-ex)"><b>Fire Bombardier (Su or Ex)</b>: At 1st level, when a fire bomber throws a bomb that deals fire damage, all creatures in the splash radius take an additional point of damage per die of fire damage dealt. Fire bombers only add their Intelligence bonus to damage from bombs or alchemical substances that deal fire damage. This otherwise works like the alchemist's bomb and throw anything abilities. This ability alters bomb and throw anything.</p>
 <p id="bonus-feats"><b>Bonus Feats</b>: A fire bomber can select the Burn! Burn! Burn!, Fire Tamer, or Flame Heart feat in place of a discovery.</p>
 <p id="fiery-cocktail"><b>Fiery Cocktail (Su)</b>: At 4th level, whenever a fire bomber uses a discovery that deals damage other than fire damage, he can split the damage dice evenly between the bomb's primary damage type and 1d6 points of fire damage; when there is an odd number of damage dice, the odd die of damage comes from the primary damage type. For example, an 8th-level fire bomber could throw a concussive bomb that deals 2d6 points of fire damage and 3d4 points of sonic damage. Additional effects from the bomb still apply, but the save DC for admixture bombs is reduced by 2. This replaces the alchemist's 4th-level discovery.</p>
 <p id="fire-body"><b>Fire Body (Ex)</b>: At 8th level, a fire bomber adds <i><a href="../../coreRulebook/spells/elementalBody.html#elemental-body-i"  >elemental body I</a></i> to his extract list as a 3rd-level extract. <i>Elemental body</i> extracts prepared using fire body are limited to fire elementals only. This ability replaces poison resistance +6. </p>
@@ -441,7 +443,7 @@
 <p class="stat-block-1"><b>Prerequisites</b>: <a href="../../coreRulebook/skills/disableDevice.html#disable-device"  >Disable Device</a> 1 rank, goblin. </p>
 <p class="stat-block-1"><b>Benefit</b>: You deal an extra 1d4 points of fire damage when you attack with fire from an alchemical or nonmagical source (such as with alchemical fire or torches) and gain a +4 competence bonus on Reflex saving throws made to avoid catching on fire or to put yourself out when on fire. Additional damage caused by this feat does not apply to magical attacks (such as an alchemist's bomb) or to splash damage.</p>
 
-<h3 id="fire-hand-combat">Fire Hand (Combat)</h3>
+<h3 id="fire-hand-(combat)">Fire Hand (Combat)</h3>
 <p>Born with a torch in your hand, you have a gift with anything that burns.</p>
 <p class="stat-block-1"><b>Prerequisite</b>: Goblin.</p>
 <p class="stat-block-1"><b>Benefit</b>: You can wield a torch as a weapon without taking the nonproficient penalty and gain a +1 bonus on attack rolls with melee weapons that deal fire damage.</p>
@@ -456,13 +458,13 @@
 <p class="stat-block-1"><b>Prerequisites</b>: Fire Tamer, character level 5th, goblin.</p>
 <p class="stat-block-1"><b>Benefit</b>: You gain fire resistance 5. When casting spells with the fire descriptor or throwing alchemist bombs that deal fire damage, treat your caster level or alchemist level as if you were 1 level higher.</p>
 
-<h3 id="goblin-gunslinger-combat">Goblin Gunslinger (Combat)</h3>
+<h3 id="goblin-gunslinger-(combat)">Goblin Gunslinger (Combat)</h3>
 <p>You have learned how to fire the big guns.</p>
 <p class="stat-block-1"><b>Prerequisite</b>: Goblin.</p>
 <p class="stat-block-1"><b>Benefit</b>: You can wield Medium firearms without taking the penalty for an inappropriately sized weapon.</p>
 <p class="stat-block-1"><b>Normal</b>: You take a &ndash;2 penalty when using an inappropriately sized weapon.</p>
 
-<h3 id="tangle-feet-combat">Tangle Feet (Combat)</h3>
+<h3 id="tangle-feet-(combat)">Tangle Feet (Combat)</h3>
 <p>Creatures who cross your path find themselves tripping over their own feet.</p>
 <p class="stat-block-1"><b>Prerequisites</b>: <a href="../../coreRulebook/feats.html#dodge"  >Dodge</a>, Mobility, <a href="../../advancedPlayersGuide/advancedFeats.html#underfoot"  >Underfoot</a> , goblin, Small size or smaller.</p>
 <p class="stat-block-1"><b>Benefit</b>: When you successfully make an <a href="../../coreRulebook/skills/acrobatics.html#acrobatics"  >Acrobatics</a> check to avoid provoking an attack of opportunity from a larger opponent when you move through its threatened area or its space, you can make that opponent lose its balance until the end of its next turn as a free action. While that creature's balance is lost, if it attempts to move, it must make a successful DC 15 <a href="../../coreRulebook/skills/acrobatics.html#acrobatics"  >Acrobatics</a> check or fall prone, wasting the move action. You can only affect one creature with this effect each round.</p>
@@ -515,7 +517,7 @@
 <tr><td>Dogslicer</td><td>8 gp</td><td>1d4</td><td>1d6</td><td>19&ndash;20/&times;2</td><td>&mdash;</td><td>1 lb.</td><td>S</td><td>fragile*</td></tr>
 <tr><td colspan="9"><i>Two-Handed Melee Weapons</i></td></tr>
 <tr><td>Horsechopper</td><td>10 gp</td><td>1d8</td><td>1d10</td><td>&times;3</td><td>&mdash;</td><td>12 lbs.</td><td>P or S</td><td>reach, trip</td></tr>
-<tfoot><tr><td colspan="9">*<b>Fragile Weapons</b>: A fragile weapon gains the broken condition if the wielder rolls a natural 1 on an attack roll with the weapon. If a fragile weapon is already broken, rolling a natural 1 destroys it instead.</td></tr></tfoot></table></div>
+<tfoot><tr><td colspan="9">*<b>Fragile Weapons</b>: A fragile weapon gains the broken condition if the wielder rolls a natural 1 on an attack roll with the weapon. If a fragile weapon is already broken, rolling a natural 1 destroys it instead.</tr></td></tfoot></table></div>
 
 	<div class = "footer">
 		<p>
