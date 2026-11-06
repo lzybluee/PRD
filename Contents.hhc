@@ -6045,15 +6045,10 @@
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Classes">
+              <param name="Name" value="Magus">
+              <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcasters\magus.html">
+              <param name="ImageNumber" value="11">
             </OBJECT>
-            <UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Magus">
-                  <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcasters\magus.html">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-            </UL>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="Class Options and Archetypes">
               <param name="Local" value="PRD\pathfinderRPG\prd\ultimateMagic\spellcastingClassOptions.html">
