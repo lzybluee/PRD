@@ -8,8 +8,6 @@
 	<meta name = "viewport" content = "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 	<title>Dynamic Magic Item Creation</title>
 	<link rel = "stylesheet" type = "text/css" href = "../../include/prd-stylesheet.css"  />
-	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery.dataTables.min.css"  />
-	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery-ui.min.css"  />
 </head>
 
 <body>
@@ -389,7 +387,7 @@
 <p>The first challenge, preparing the vessel, sets some base statistics for the new magic item. Further challenges can cause adjustments to the magic item. The GM can create her own challenges, and should consider the DCs of the challenge's tasks when deciding adjustments. Challenges with lower DCs should typically have benefits that merely avoid negative adjustments, while challenges with higher DCs should be more likely to add beneficial adjustments.</p>
 <p><strong>Cost</strong>: Challenges that adjust the cost increase or decrease the crafting cost by increments of 5% of the final market price. The cost can go over 100%, meaning the item would cost more to make than its market price. The final cost can never be lower than the initial 25% investment; the characters can't get a refund of that expenditure.</p>
 <p><strong>Time</strong>: Challenges may add or subtract the number of remaining days of work required to create the item. When this happens, adjust the timing of challenges accordingly. The total number of days of work can never decrease below 1, nor can it decrease below the number of days the characters have already spent crafting the item. For example, if on day 3 of a 5-day process a successful challenge decreases the time by 1 day, the final challenge will happen on day 4 instead. But if the result says to decrease the time by 3 days, the PC is instead able to attempt the final challenge immediately.</p>
-<p><strong>Perks, Quirks, and Flaws</strong>: A challenge may add a beneficial <a href="#perks">perk</a>, a somewhat neutral <a href="#quirks">quirk</a>, or a detrimental <a href="#flaws">flaw</a> to the item. These three types of adjustments give an item a distinct flavor that sets it apart from others of its kind. The GM should secretly roll for perks, quirks, and flaws as they occur, rerolling duplicate or contradictory results. <a href="../../coreRulebook/spells/detectMagic.html#detect-magic" ><em>detect magic</em></a> and <em>identify</em> typically don't reveal an item's perks, quirks, and flaws; <a href="../../coreRulebook/spells/analyzeDweomer.html#analyze-dweomer" ><em>analyze dweomer</em></a> does, though only once the item is complete.</p>
+<p><strong>Perks, Quirks, and Flaws</strong>: A challenge may add a beneficial <a href="#perks">perk</a>, a somewhat neutral <a href="#quirks-">quirk</a>, or a detrimental <a href="#flaws">flaw</a> to the item. These three types of adjustments give an item a distinct flavor that sets it apart from others of its kind. The GM should secretly roll for perks, quirks, and flaws as they occur, rerolling duplicate or contradictory results. <a href="../../coreRulebook/spells/detectMagic.html#detect-magic" ><em>detect magic</em></a> and <em>identify</em> typically don't reveal an item's perks, quirks, and flaws; <a href="../../coreRulebook/spells/analyzeDweomer.html#analyze-dweomer" ><em>analyze dweomer</em></a> does, though only once the item is complete.</p>
 <p><strong>Destruction</strong>: A few challenges can, if critically failed, destroy the in-progress item, which costs the PCs their current investment. Such challenges come with enticing benefits for critically succeeding, making them potentially worth the risk.</p>
 
 <h2 id = "base-challenges">Base Challenges</h2>
@@ -863,7 +861,7 @@
 <p id = "enemy-glow"><strong>Enemy Glow</strong>:  The item glows when a specific type of creature is nearby. Either choose an appropriate type or roll one randomly on the ranger's <a href="../../coreRulebook/classes/ranger.html#ranger-favored-enemies-table" >favored enemy list</a>.</p>
 <p id = "energetic"><strong>Energetic</strong>:  The item deals 1 additional point of damage of an energy type randomly determined upon creation. This damage isn't multiplied on a critical hit.</p>
 <p id = "energy-kissed"><strong>Energy-Kissed</strong>:  The item is immune to a random type of energy, but doesn't grant this immunity to its bearer.</p>
-<p id = "exemplar"><strong>Exemplar</strong>:  The item is a perfect example of its kind, granting advantages against similar items. Exemplar weapons grant a +1 AC bonus against other weapons of that type (such as longswords), armors grant a +1 bonus on attack rolls against enemies wearing that type of armor (such as breastplates), and activated items grant a +1 bonus on saving throws against other items of that exact function (so a <em><a href="../../coreRulebook/magicItems/staves.html#_staff-of-fire" >staff of fire</a> </em>would grant its benefit against other <em>staves of fire</em>, but not against any other staves).</p>
+<p id = "exemplar"><strong>Exemplar</strong>:  The item is a perfect example of its kind, granting advantages against similar items. Exemplar weapons grant a +1 AC bonus against other weapons of that type (such as longswords), armors grant a +1 bonus on attack rolls against enemies wearing that type of armor (such as breastplates), and activated items grant a +1 bonus on saving throws against other items of that exact function (so a <em><a href="../../coreRulebook/magicItems/staves.html#staff-of-fire" >staff of fire</a> </em>would grant its benefit against other <em>staves of fire</em>, but not against any other staves).</p>
 <p id = "faithful"><strong>Faithful</strong>:  The item's caster level is treated as 1 higher when its effects benefit the faithful of its creator's patron deity or when used against worshipers of one faith hated by that deity (selected by the creator if the patron hates multiple faiths). The item also gains a +1 bonus on damage rolls against hated worshipers. If more than one creator qualifies, the creators must choose one of their patrons.</p>
 <p id = "hated-foe"><strong>Hated Foe</strong>:  The weapon deals 1 additional point of damage when it hits a specific type of creature. Either choose an appropriate type or roll one randomly on the ranger's <a href="../../coreRulebook/classes/ranger.html#ranger-favored-enemies-table" >favored enemy list</a>.</p>
 <p id = "healthful"><strong>Healthful</strong>:  The bearer of this item regains 1 additional hit point from any magical effect that causes her to regain hit points.</p>
@@ -896,12 +894,12 @@
 		<tr><td>02&ndash;04</td><td><a href="#infested">Infested</a></td></tr>
 		<tr><td>05&ndash;08</td><td><a href="#unusually-colored">Unusually colored</a></td></tr>
 		<tr><td>09&ndash;12</td><td><a href="#color-altering">Color-altering</a></td></tr>
-		<tr><td>13&ndash;16</td><td><a href="#mood coloration">Mood coloration</a></td></tr>
+		<tr><td>13&ndash;16</td><td><a href="#mood-coloration">Mood coloration</a></td></tr>
 		<tr><td>17&ndash;20</td><td><a href="#aberrant">Aberrant</a></td></tr>
 		<tr><td>21&ndash;24</td><td><a href="#decorous">Decorous</a>*</td></tr>
 		<tr><td>25&ndash;28</td><td><a href="#dirty">Dirty</a></td></tr>
 		<tr><td>29&ndash;32</td><td><a href="#junky">Junky</a></td></tr>
-		<tr><td>33&ndash;36</td><td><a href="#magnificent-appearance">Magnificent appearance</a></td></tr>
+		<tr><td>33&ndash;36</td><td><a href="#magnificent">Magnificent appearance</a></td></tr>
 		<tr><td>37&ndash;40</td><td><a href="#verdant">Verdant</a></td></tr>
 		<tr><td>41&ndash;44</td><td><a href="#noisy">Noisy</a></td></tr>
 		<tr><td>45&ndash;48</td><td><a href="#bloodthirsty">Bloodthirsty</a></td></tr>
@@ -1003,9 +1001,9 @@
 	<p id = "anomalous"><strong>Anomalous</strong>:  The item is instead another random magic item of the same type or slot and the same or similar cost as the intended item.</p>
 	<p id = "backlashing"><strong>Backlashing</strong>:  When attacking with or activating the item, the user takes 1d6 points of damage from magical energy backlash.</p>
 	<p id = "cursed"><strong>Cursed</strong>:  The item gains a curse. Roll on <a href="../../coreRulebook/magicItems/cursedItems.html#table-15-27-common-item-curses" >Table: Common Item Curses</a> to determine the curse, or choose an appropriate curse.</p>
-	<p id = "energy weakened"><strong>Energy Weakened</strong>:  The item is particularly vulnerable to one random energy type. That energy type ignores the item's hardness and deals double damage to the item (but not to the item's bearer). Determine the energy type randomly, or choose one thematically tied to the challenge that caused the item to have the weakness.</p>
+	<p id = "energy-weakened"><strong>Energy Weakened</strong>:  The item is particularly vulnerable to one random energy type. That energy type ignores the item's hardness and deals double damage to the item (but not to the item's bearer). Determine the energy type randomly, or choose one thematically tied to the challenge that caused the item to have the weakness.</p>
 	<p id = "enticing"><strong>Enticing</strong>:  Others covet the item and seek to possess it. Upon touching or examining the item, any creature that does not possess the item must succeed at a DC 20 Will save or covet the item, seeking to gain it by whatever means is most expedient and advantageous, though it need not do so immediately. After one attempt to gain the item (or a successful save), a creature is immune to the item's enticing effect for 24 hours. </p>
-	<p id = "extremely infested"><strong>Extremely Infested</strong>:  As the infested quirk, but the vermin or other creatures crawl over the bearer, requiring her to succeed at concentration checks (DC = 15 + the spell's level) to cast spells or use other abilities that require concentration.</p>
+	<p id = "extremely-infested"><strong>Extremely Infested</strong>:  As the infested quirk, but the vermin or other creatures crawl over the bearer, requiring her to succeed at concentration checks (DC = 15 + the spell's level) to cast spells or use other abilities that require concentration.</p>
 	<p id = "faerie-lit"><strong>Faerie-Lit</strong>:  The bearer is constantly surrounded by colorful light, as if affected by a <em>faerie fire </em>spell.</p>
 	<p id = "fragile"><strong>Fragile</strong>:  The item has half as many hit points as normal.</p>
 	<p id = "gluttonous"><strong>Gluttonous</strong>:  The bearer must gorge upon 10 times as much food as normal or suffer the effects of starvation, ignoring effects that reduce the amount of food required (such as <em>ring of sustenance</em>).</p>
@@ -1016,7 +1014,7 @@
 	<p id = "pacifistic"><strong>Pacifistic</strong>:  When using this weapon, the wielder can only choose to deal nonlethal damage (in most cases imposing a &ndash;4 penalty on attack rolls), except against constructs and undead.</p>
 	<p id = "paranoid"><strong>Paranoid</strong>:  The bearer no longer trusts anyone and must attempt saving throws against all abilities and spells but her own, even those that are harmless.</p>
 	<p id = "proud"><strong>Proud</strong>:  The bearer can't grant or gain any benefit from the aid another action.</p>
-	<p id = "pungent"><strong>Pungent</strong>:  The item emits a foul and obvious odor. No mundane means can remove the stench, which overcomes even magical effects such as <em><a href="../../advancedPlayersGuide/spells/negateAroma.html#_negate-aroma" >negate aroma</a></em>.</p>
+	<p id = "pungent"><strong>Pungent</strong>:  The item emits a foul and obvious odor. No mundane means can remove the stench, which overcomes even magical effects such as <em><a href="../../advancedPlayersGuide/spells/negateAroma.html#negate-aroma" >negate aroma</a></em>.</p>
 	<p id = "singing"><strong>Singing</strong>:  The item constantly sings in a loud belting soprano or tenor. <em>Silence </em>and other such spells can suppress the sound as normal.</p>
 	<p id = "slippery"><strong>Slippery</strong>:  The creature holding the item must succeed at a DC 15 Reflex save each round or drop the item.</p>
 	<p id = "slothful"><strong>Slothful</strong>:  The bearer must rest for 12 hours each day to gain the benefits of a full night's rest, ignoring effects that reduce the amount of sleep needed (such as <em>ring of sustenance</em>). This can affect the bearer's ability to prepare  spells or regain spell slots.</p>

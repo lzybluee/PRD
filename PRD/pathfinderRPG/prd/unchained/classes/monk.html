@@ -8,8 +8,6 @@
 	<meta name = "viewport" content = "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 	<title>Unchained Monk</title>
 	<link rel = "stylesheet" type = "text/css" href = "../../include/prd-stylesheet.css"  />
-	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery.dataTables.min.css"  />
-	<link rel = "stylesheet" type = "text/css" href = "../../../../../cdn.paizo.com/chrome/style/jquery-ui.min.css"  />
 </head>
 
 <body>
@@ -361,7 +359,7 @@
 				<th>Ref Save</th>
 				<th>Will Save</th>
 				<th>Special</th>
-				<th><a href="#unarmed-damage">Unarmed Damage</a></th>
+				<th><a href="#unarmed-strike">Unarmed Damage</a></th>
 				<th><a href="#ac-bonus">AC Bonus</a></th>
 				<th><a href="#fast-movement">Fast Movement</a></th>
 			</tr>
@@ -372,21 +370,21 @@
 			<tr><td>3rd</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td><a href="#fast-movement">Fast movement</a>, <a href="#ki-pool">ki pool</a>, <a href="#ki-pool">ki strike</a> (magic)</td><td>1d6</td><td>+0</td><td>+10 ft.</td></tr>
 			<tr><td>4th</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td><a href="#ki-powers">Ki power</a>, <a href="#still-mind">still mind</a></td><td>1d8</td><td>+1</td><td>+10 ft.</td></tr>
 			<tr><td>5th</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td><a href="#purity-of-body">Purity of body</a>, <a href="#style-strike">style strike</a> (1/round)</td><td>1d8</td><td>+1</td><td>+10 ft.</td></tr>
-			<tr><td>6th</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td><a href="#bonus-feat">Bonus feat</a>, <a href="#ki-power">ki power</a></td><td>1d8</td><td>+1</td><td>+20 ft.</td></tr>
-			<tr><td>7th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td><a href="#ki-strike">Ki strike</a> (cold iron/silver)</td><td>1d8</td><td>+1</td><td>+20 ft.</td></tr>
-			<tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td><a href="#ki-power">Ki power</a></td><td>1d10</td><td>+2</td><td>+20 ft.</td></tr>
+			<tr><td>6th</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td><a href="#bonus-feat">Bonus feat</a>, <a href="#ki-powers">ki power</a></td><td>1d8</td><td>+1</td><td>+20 ft.</td></tr>
+			<tr><td>7th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td><a href="#ki-pool">Ki strike</a> (cold iron/silver)</td><td>1d8</td><td>+1</td><td>+20 ft.</td></tr>
+			<tr><td>8th</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td><a href="#ki-powers">Ki power</a></td><td>1d10</td><td>+2</td><td>+20 ft.</td></tr>
 			<tr><td>9th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td><a href="#improved-evasion">Improved evasion</a>, <a href="#style-strike">style strike</a></td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
-			<tr><td>10th</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td><a href="#bonus-feat">Bonus feat</a>, <a href="#ki-power">ki power</a>, <a href="#ki-strike">ki strike</a> (lawful)</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
+			<tr><td>10th</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td><a href="#bonus-feat">Bonus feat</a>, <a href="#ki-powers">ki power</a>, <a href="#ki-pool">ki strike</a> (lawful)</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
 			<tr><td>11th</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td><a href="#flurry-of-blows">Flurry of blows</a> (bonus attack)</td><td>1d10</td><td>+2</td><td>+30 ft.</td></tr>
-			<tr><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td><a href="#ki-power">Ki power</a></td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
+			<tr><td>12th</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td><a href="#ki-powers">Ki power</a></td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
 			<tr><td>13th</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td><a href="#style-strike">Style strike</a>, <a href="#tongue-of-the-sun-and-moon">tongue of the sun and moon</a></td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
-			<tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td><a href="#bonus-feat">Bonus feat</a>, <a href="#ki-power">ki power</a></td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
+			<tr><td>14th</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td><a href="#bonus-feat">Bonus feat</a>, <a href="#ki-powers">ki power</a></td><td>2d6</td><td>+3</td><td>+40 ft.</td></tr>
 			<tr><td>15th</td><td>+15/+10/+5</td><td>+9</td><td>+9</td><td>+5</td><td><a href="#style-strike">Style strike</a> (2/round)</td><td>2d6</td><td>+3</td><td>+50 ft.</td></tr>
-			<tr><td>16th</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td><a href="#ki-power">Ki power</a>, <a href="#ki-strike">ki strike</a> (adamantine)</td><td>2d8</td><td>+4</td><td>+50 ft.</td></tr>
+			<tr><td>16th</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td><a href="#ki-powers">Ki power</a>, <a href="#ki-pool">ki strike</a> (adamantine)</td><td>2d8</td><td>+4</td><td>+50 ft.</td></tr>
 			<tr><td>17th</td><td>+17/+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td><a href="#style-strike">Style strike</a>, <a href="#timeless-body">timeless body</a></td><td>2d8</td><td>+4</td><td>+50 ft.</td></tr>
-			<tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td><a href="#bonus-feat">Bonus feat</a>, <a href="#ki-power">ki power</a></td><td>2d8</td><td>+4</td><td>+60 ft.</td></tr>
+			<tr><td>18th</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td><a href="#bonus-feat">Bonus feat</a>, <a href="#ki-powers">ki power</a></td><td>2d8</td><td>+4</td><td>+60 ft.</td></tr>
 			<tr><td>19th</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td><a href="#flawless-mind">Flawless mind</a></td><td>2d8</td><td>+4</td><td>+60 ft.</td></tr>
-			<tr><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td><a href="#ki-power">Ki power</a>, <a href="#perfect-self">perfect self</a></td><td>2d10</td><td>+5</td><td>+60 ft.</td></tr>
+			<tr><td>20th</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td><a href="#ki-powers">Ki power</a>, <a href="#perfect-self">perfect self</a></td><td>2d10</td><td>+5</td><td>+60 ft.</td></tr>
 		</tbody>
 	</table>
 </div>
